@@ -1,0 +1,860 @@
+[
+  {
+    "id": "nin-what-is",
+    "document": "nimc-nin-overview",
+    "section_title": "What the NIN is",
+    "question_text": "What is the National Identification Number (NIN)?",
+    "alt_questions": [
+      "What is NIN?",
+      "Explain NIN",
+      "What does NIMC do?",
+      "Why do I need a NIN?",
+      "What is NIMC responsible for?",
+      "What does NIN stand for?",
+      "Why is NIN important?",
+      "What is the national identification number used for?",
+      "Meaning of NIN",
+      "Tell me about NIN",
+      "Wetin be NIN?",
+      "What is a NIN number?"
+    ],
+    "answer_text": "The National Identification Number (NIN) is a unique 11-digit number issued by the National Identity Management Commission (NIMC) to every citizen and legal resident after enrolment into the National Identity Database. It is issued once and stays with you for life. The NIN is used to verify your identity for services such as SIM registration, passport applications, driver's licence applications, bank BVN linkage, JAMB registration and government programmes."
+  },
+  {
+    "id": "nin-eligibility",
+    "document": "nimc-nin-overview",
+    "section_title": "Eligibility",
+    "question_text": "Who is eligible to enrol for a NIN?",
+    "alt_questions": [
+      "Can a child get a NIN?",
+      "Can foreigners get NIN?",
+      "Is there an age limit for NIN?",
+      "Who can get a NIN?",
+      "Can my child get a NIN?",
+      "Can a 5 year old get a NIN?",
+      "Is there a minimum age for NIN enrolment?",
+      "Can foreigners get a NIN?",
+      "Are children eligible for NIN?",
+      "Can a baby be enrolled for NIN?",
+      "Who is eligible for NIN?",
+      "Can a foreigner enrol for NIN?",
+      "Can a foreigner living in Nigeria enrol for NIN?"
+    ],
+    "answer_text": "All Nigerian citizens and legal residents in Nigeria are eligible to enrol for a NIN, from birth. Children and minors can be enrolled; a child under 16 is enrolled with a parent or guardian present, and the parent or guardian's own NIN is linked to the child's record. Legal residents (foreign nationals with valid immigration status) enrol with their valid immigration documents."
+  },
+  {
+    "id": "nin-enrol-steps",
+    "document": "nimc-nin-overview",
+    "section_title": "How to enrol",
+    "question_text": "How do I enrol for a NIN?",
+    "alt_questions": [
+      "How do I register for NIN?",
+      "NIN registration process",
+      "Steps to get NIN",
+      "Where do I get NIN?",
+      "How do I get a NIN for the first time?",
+      "How can I obtain my NIN?",
+      "I don't have a NIN yet, how do I start?",
+      "Where do I go to enrol for NIN?",
+      "NIN registration steps",
+      "How to do NIN registration",
+      "How do I get one?",
+      "Where can I register for NIN near me?",
+      "Abeg how I go take get NIN?",
+      "I want to enrol for NIN",
+      "NIN enrolment process",
+      "NIN enrollment process",
+      "How do I get my NIN?",
+      "How do I get a NIN?",
+      "How do I get NIN?",
+      "how to get my nin"
+    ],
+    "answer_text": "To enrol for a NIN: 1) Go to a NIMC enrolment centre or a NIMC-licensed Front End Partner (enrolment agent) near you. 2) Fill the enrolment form (you can pre-enrol online on the NIMC portal to save time). 3) Present one acceptable supporting document (for example a birth certificate, voter's card, driver's licence, international passport or a declaration of age). 4) Your biometrics (ten fingerprints, facial photograph and signature) are captured. 5) You receive a transaction slip; your NIN is issued after processing (often within a few days) and you can retrieve it by dialling *346# on the phone number you registered. Enrolment itself is free."
+  },
+  {
+    "id": "nin-documents",
+    "document": "nimc-nin-overview",
+    "section_title": "Required documents",
+    "question_text": "What documents do I need for NIN enrolment?",
+    "alt_questions": [
+      "NIN requirements",
+      "Which documents are accepted for NIN registration?",
+      "Do I need a birth certificate for NIN?",
+      "Which ID can I use for NIN enrolment?",
+      "Do I need a birth certificate to register for NIN?",
+      "What should I bring to the NIMC enrolment centre?",
+      "Is a voter's card acceptable for NIN registration?",
+      "What do I need to carry to the NIMC office?",
+      "Acceptable documents for NIN",
+      "Supporting document for NIN enrolment",
+      "Which documents are required for NIN registration?"
+    ],
+    "answer_text": "You need only ONE acceptable supporting document for NIN enrolment. Acceptable documents include: a birth certificate or declaration of age; voter's card (temporary or permanent); Nigerian international passport; driver's licence; certificate of origin; an attestation letter from a recognised traditional ruler or religious leader; government or registered-company staff ID card; school ID card; tax clearance certificate; NHIS card; or valid immigration documents for legal residents. Bring the original to the enrolment centre."
+  },
+  {
+    "id": "nin-cost",
+    "document": "nimc-fee-schedule-2025",
+    "section_title": "Cost of enrolment",
+    "question_text": "How much does NIN enrolment cost?",
+    "alt_questions": [
+      "Is NIN free?",
+      "Do I have to pay for NIN registration?",
+      "NIN enrolment fee",
+      "How much is NIN?",
+      "NIN registration fee",
+      "NIN enrolment cost",
+      "Why is the agent charging me for NIN?",
+      "Do they collect money for NIN?",
+      "Is NIN registration free of charge?",
+      "Dem dey collect money for NIN?",
+      "Is there a fee for NIN enrolment?",
+      "VIP NIN enrolment fee",
+      "NIN fee",
+      "What is the fee for NIN?",
+      "NIN price"
+    ],
+    "answer_text": "NIN enrolment and the issuance of your first NIN slip are FREE at NIMC enrolment centres and licensed partners. NIMC warns the public not to pay anyone for standard enrolment. The only paid enrolment option is the optional premium (VIP) service, offered at licensed lounges and visa application centres, which NIMC's May 2025 fee schedule lists at ₦20,000. Report anyone demanding payment for standard enrolment to NIMC."
+  },
+  {
+    "id": "nin-retrieve",
+    "document": "nimc-self-service",
+    "section_title": "Retrieving your NIN",
+    "question_text": "How do I check or retrieve my NIN?",
+    "alt_questions": [
+      "I forgot my NIN",
+      "How to find my NIN with my phone",
+      "What is *346#?",
+      "Check NIN USSD",
+      "How do I check my NIN?",
+      "How can I get my NIN on my phone?",
+      "What code do I dial to see my NIN?",
+      "NIN retrieval USSD",
+      "How do I find my NIN number?",
+      "I forgot my NIN, how do I check it?",
+      "How to see my NIN with my phone",
+      "Check NIN through phone",
+      "I forget my NIN, how I go check am?",
+      "I have a NIN but I don't know the number"
+    ],
+    "answer_text": "To retrieve your NIN, dial *346# from the phone number you used during enrolment, select 'NIN Retrieval' and follow the prompts; your NIN is displayed on screen. The telecom operator charges a small airtime fee (about ₦20) for the USSD session. You can also view your NIN in the NINAuth mobile app after verifying your identity. If the registered phone number is lost, you will need to update your phone number first through the NIMC self-service modification process."
+  },
+  {
+    "id": "nin-slip",
+    "document": "nimc-fee-schedule-2025",
+    "section_title": "NIN slip",
+    "question_text": "How do I get or reprint my NIN slip?",
+    "alt_questions": [
+      "NIN slip reissue cost",
+      "Lost NIN slip",
+      "Improved NIN slip",
+      "Print NIN slip",
+      "How do I print my NIN slip?",
+      "I lost my NIN slip",
+      "How much is NIN slip reprint?",
+      "Where can I get the improved NIN slip?",
+      "Reissue NIN slip",
+      "Get NIN slip",
+      "Download NIN slip",
+      "How do I get my NIN slip?",
+      "NIN slip"
+    ],
+    "answer_text": "Your first NIN slip is issued free at enrolment. A replacement (re-issuance) of the standard NIN slip costs ₦600 under NIMC's May 2025 fee schedule (₦3,500 for the premium/VIP slip). You can obtain the improved digital NIN slip through the NIMC self-service portal or the NINAuth app and print it yourself; many enrolment centres and licensed agents can also print it for the official fee. Keep the slip or a digital copy because many services ask for it."
+  },
+  {
+    "id": "nin-modify-how",
+    "document": "nimc-self-service",
+    "section_title": "Modifying your NIN record",
+    "question_text": "How do I correct or change my NIN details (name, date of birth, address, phone)?",
+    "alt_questions": [
+      "NIN modification",
+      "Change name on NIN",
+      "Correct date of birth on NIN",
+      "Update NIN phone number",
+      "NIN self service portal",
+      "NIN modification process",
+      "How can I change my NIN phone number?",
+      "Where do I update my NIN address?",
+      "Can I modify my NIN online?",
+      "How to edit NIN details",
+      "How do I correct my name on NIN?",
+      "How do I change my date of birth on NIN?",
+      "NIN self-service modification steps",
+      "How to update NIN information"
+    ],
+    "answer_text": "NIN records are modified through the NIMC Self-Service Modification portal (selfservicemodification.nimc.gov.ng) or by dialling *346# and choosing 'NIN Modification'; NIMC announced in 2024 that routine modifications are no longer done at enrolment centres. Steps on the portal: 1) Register or log in with your NIN. 2) Choose the field to change (name, date of birth, address, phone number). 3) Pay the official fee online. 4) Upload supporting documents (for date of birth, enter your NPC birth certificate or attestation number; the date is filled automatically). 5) Review, tick the attestation and submit. 6) Keep the transaction slip; the updated NIN slip is emailed to you and can be printed from your dashboard. Simple changes are usually processed within a day or two; name and date-of-birth changes can take up to about two weeks."
+  },
+  {
+    "id": "nin-modify-fees",
+    "document": "nimc-fee-schedule-2025",
+    "section_title": "Modification fees",
+    "question_text": "How much does it cost to modify my NIN details?",
+    "alt_questions": [
+      "NIN date of birth correction fee",
+      "NIN name change cost",
+      "NIN modification price",
+      "How much is NIN modification?",
+      "Cost of changing date of birth on NIN",
+      "NIN name change fee",
+      "How much to update my NIN phone number?",
+      "NIN correction price",
+      "How much is NIN DOB correction?",
+      "How much does it cost to change my NIN details?",
+      "Fee for NIN address update",
+      "NIN modification fee"
+    ],
+    "answer_text": "Under the NIMC fee schedule published in May 2025: correction of date of birth costs ₦28,574; a change of name, address, phone number or other data costs ₦2,000 per request; re-issuance of the standard NIN slip costs ₦600. For Nigerians in the diaspora, date-of-birth correction is $55 (Africa) or $60 (outside Africa) and other modifications are $10. Fees are paid online through the self-service portal only; the amount displayed on the official portal at the time of payment is the one that applies."
+  },
+  {
+    "id": "nin-modify-docs",
+    "document": "nimc-self-service",
+    "section_title": "Documents for modification",
+    "question_text": "What documents do I need to change my name or date of birth on my NIN?",
+    "alt_questions": [
+      "Documents for NIN correction",
+      "What do I need to change my NIN date of birth?",
+      "Documents required for NIN name correction",
+      "What do I need to update my address on NIN?",
+      "Do I need an affidavit to change my name on NIN?",
+      "What documents do I need for NIN modification?",
+      "Requirements to change NIN phone number",
+      "Documents to correct NIN date of birth"
+    ],
+    "answer_text": "Date of birth: a digitised NPC birth certificate (for those born from 1992) or a digitised NPC attestation of birth (for those born earlier); if you have neither, first complete an online birth attestation with the National Population Commission. Name: a court affidavit, a newspaper publication of the change, a marriage certificate for marriage-related changes, and another government-issued ID. Address: a recent utility bill, tenancy agreement or an attestation letter. Phone number: access to the new number for verification; a police report may be required where the linked phone was lost or stolen."
+  },
+  {
+    "id": "nin-uses",
+    "document": "nimc-nin-overview",
+    "section_title": "Where NIN is required",
+    "question_text": "Where is the NIN required or mandatory?",
+    "alt_questions": [
+      "Do I need NIN for passport?",
+      "NIN and SIM card",
+      "NIN for bank account",
+      "NIN for JAMB",
+      "Where is NIN required?",
+      "Do I need NIN to open a bank account?",
+      "Is NIN needed for JAMB?",
+      "Why must I link NIN to my SIM?",
+      "What services require NIN?",
+      "What can I use my NIN for?",
+      "Is NIN compulsory for passport?"
+    ],
+    "answer_text": "The NIN is mandatory for: registering or keeping an active SIM card (NIN-SIM linkage); applying for or renewing an international passport; applying for a National Driver's Licence; linking your bank accounts (NIN-BVN linkage); JAMB and other examination registrations; National Health Insurance; pension and payroll verification; and many other government and financial services. Keep your NIN slip or digital slip available."
+  },
+  {
+    "id": "nin-ninauth",
+    "document": "nimc-self-service",
+    "section_title": "NINAuth app",
+    "question_text": "What is the NINAuth app and what can I do with it?",
+    "alt_questions": [
+      "NIMC mobile app",
+      "Digital ID app NIMC",
+      "NIN app",
+      "What is NINAuth?",
+      "What is the NIMC app called?",
+      "How do I use the NIMC mobile app?",
+      "Can I see my NIN in an app?",
+      "NIMC digital ID app",
+      "NINAuth app download",
+      "NINAuth"
+    ],
+    "answer_text": "NINAuth is NIMC's digital identity app. After verifying your identity with your NIN and phone number, you can view your NIN, access your digital NIN slip, and approve or decline requests from organisations that want to verify your identity, so you control who sees your data. Download it only from the official app stores and never share your login code with anyone."
+  },
+  {
+    "id": "nin-scam-warning",
+    "document": "nimc-nin-overview",
+    "section_title": "Avoiding agents and fraud",
+    "question_text": "Can an agent get my NIN faster if I pay?",
+    "alt_questions": [
+      "NIN agent fees",
+      "Is it safe to give my NIN to someone?",
+      "NIN fraud",
+      "Someone said they can fast track my NIN if I pay",
+      "Is it safe to pay an agent for NIN?",
+      "NIN fraud warning",
+      "Should I give my NIN to an agent?",
+      "Can an agent speed up my NIN?",
+      "Fake NIN agents"
+    ],
+    "answer_text": "No. Standard NIN enrolment is free and nobody can lawfully 'fast-track' it for a fee. Only use NIMC enrolment centres or NIMC-licensed Front End Partners, type official portal addresses yourself rather than following links, and never share your NIN slip, OTP codes or NINAuth login with anyone you do not trust. Report anyone demanding unofficial payments to NIMC through its official channels."
+  },
+  {
+    "id": "pp-types",
+    "document": "nis-passports",
+    "section_title": "Passport types",
+    "question_text": "What types of Nigerian passports are there?",
+    "alt_questions": [
+      "Difference between 32-page and 64-page passport",
+      "Official passport vs standard passport",
+      "What is the enhanced e-passport?",
+      "What types of passport does Nigeria issue?",
+      "Difference between 32 and 64 page passport",
+      "Who gets an official passport?",
+      "Passport booklet types",
+      "Green passport vs blue passport",
+      "Which passport booklet should I choose?"
+    ],
+    "answer_text": "Nigeria issues three categories: the Standard (green) passport for all citizens, available as a 32-page 5-year booklet, a 64-page 5-year booklet and a 64-page 10-year booklet; the Official (blue) passport for serving government officials of specified ranks; and the Diplomatic passport for diplomats and top officials approved by the President. The current enhanced e-passport is a polycarbonate booklet with stronger security features, and the 64-page booklet offers 10-year validity."
+  },
+  {
+    "id": "pp-fees",
+    "document": "nis-passport-fees-2025",
+    "section_title": "Passport fees",
+    "question_text": "How much does a Nigerian passport cost?",
+    "alt_questions": [
+      "Passport fee 32 page",
+      "Passport price 64 page 10 years",
+      "Cost of international passport in Nigeria",
+      "Passport fee for Nigerians abroad",
+      "How much is a Nigerian passport?",
+      "Passport price in Nigeria",
+      "Cost of 64 page passport 10 years",
+      "How much is passport renewal?",
+      "How much do Nigerians abroad pay for passport?",
+      "What is the new passport fee?",
+      "Passport fee 2025",
+      "How much be passport now?",
+      "Current price of international passport",
+      "How much is a 32 page passport?",
+      "Passport renewal cost",
+      "Passport fee",
+      "Passport cost"
+    ],
+    "answer_text": "For applications made in Nigeria, the fees that took effect on 1 September 2025 are: 32-page booklet with 5-year validity ₦100,000; 64-page booklet with 10-year validity ₦200,000. The 64-page 5-year booklet is listed on the NIS site; confirm its current price on the portal when you apply. For Nigerians applying in the diaspora the fees are unchanged at $150 (32-page, 5 years) and $230 (64-page, 10 years). Payment is made strictly online through the official portal; the fee shown on the portal at the time of payment is the one that applies."
+  },
+  {
+    "id": "pp-fresh-steps",
+    "document": "nis-passports",
+    "section_title": "Fresh application",
+    "question_text": "How do I apply for a new Nigerian passport?",
+    "alt_questions": [
+      "Passport application process",
+      "First time passport Nigeria",
+      "Steps to get international passport",
+      "How to apply for passport online",
+      "How do I apply for a passport?",
+      "First time passport application Nigeria",
+      "I want to get a passport, where do I start?",
+      "How do I get a passport for the first time?",
+      "Passport application steps",
+      "New passport application"
+    ],
+    "answer_text": "To apply for a fresh Standard passport: 1) Go to passport.immigration.gov.ng (type it yourself) and complete the online application form. 2) Upload your NPC birth certificate or a High Court age declaration, your state-of-origin or LGA identification letter, and pay online. 3) Book an appointment date at your chosen passport office. 4) Attend in person on the appointment date with your payment slip, appointment slip and original documents for biometric capture (fingerprints, photograph, signature). 5) Track your application status on the portal and collect your passport when it is ready. Applicants outside Nigeria use passportintl.immigration.gov.ng and the nearest Nigerian embassy or high commission."
+  },
+  {
+    "id": "pp-documents",
+    "document": "nis-passports",
+    "section_title": "Required documents",
+    "question_text": "What documents do I need for a Nigerian passport application?",
+    "alt_questions": [
+      "Passport requirements",
+      "Guarantor form passport",
+      "Do I need NIN for passport?",
+      "What documents are needed for passport?",
+      "Passport requirements Nigeria",
+      "Do I need a guarantor for passport?",
+      "Is NIN required for passport?",
+      "What should I bring to the passport office?",
+      "Documents to bring for passport capture",
+      "Which documents do I need to apply for a passport?",
+      "Passport application requirements for adults",
+      "Documents for passport",
+      "Passport documents"
+    ],
+    "answer_text": "For an adult citizen by birth: a valid NIN (the passport record is linked to your NIN); an NPC birth certificate (compulsory for applicants born from December 1992) or an age declaration sworn before a Commissioner for Oaths; a letter of identification from your Local Government Area or state of origin, or a national identity card; two passport photographs; a completed guarantor's form signed before a Commissioner for Oaths, with a photocopy of the guarantor's passport data page and one photograph of the guarantor; a marriage certificate where applicable; and your acknowledgement slip and proof of payment."
+  },
+  {
+    "id": "pp-minor",
+    "document": "nis-passports",
+    "section_title": "Passports for children",
+    "question_text": "How do I get a passport for my child?",
+    "alt_questions": [
+      "Passport for minor",
+      "Child passport requirements Nigeria",
+      "Baby passport",
+      "Passport for a minor in Nigeria",
+      "Can my 10 year old get a passport?",
+      "Documents for children's passport",
+      "How do I get a passport for my baby?",
+      "Child passport requirements",
+      "Passport for my son or daughter",
+      "What about a passport for my child?"
+    ],
+    "answer_text": "For a minor (under 18): complete the online application; upload the child's NPC birth certificate; provide evidence of the parents' Nigerian citizenship (for example a parent's passport data page); a consent letter from a parent; one photograph of the child endorsed by the consenting parent; and the acknowledgement slip and proof of payment. The child must attend the passport office with the parent for capture. Adopted children additionally need the court adoption order and approval from the State Ministry of Women Affairs."
+  },
+  {
+    "id": "pp-renewal",
+    "document": "nis-passports",
+    "section_title": "Renewal",
+    "question_text": "How do I renew my Nigerian passport?",
+    "alt_questions": [
+      "Passport renewal process",
+      "My passport has expired",
+      "Renew passport online",
+      "Can I renew my passport online?",
+      "My passport expires in 4 months, can I travel?",
+      "Passport expired, what do I do?",
+      "How to renew my passport",
+      "My passport don expire",
+      "Passport renewal"
+    ],
+    "answer_text": "Renewal (re-issue) follows the same online process as a fresh application: 1) Apply on passport.immigration.gov.ng, select renewal, and upload your birth certificate or age declaration, state-of-origin letter and the data page of your current passport. 2) Pay online and book an appointment. 3) Bring the old passport booklet to the passport office on your appointment date for photograph and biometric capture. Note that NIS validity rule: a passport is treated as expired for travel if it has less than six months left, so renew early. Fees are the same as for a fresh booklet."
+  },
+  {
+    "id": "pp-change-data",
+    "document": "nis-passports",
+    "section_title": "Change of name or data",
+    "question_text": "How do I change my name or correct an error on my passport?",
+    "alt_questions": [
+      "Passport name change after marriage",
+      "Correct date of birth on passport",
+      "Change of data passport",
+      "How do I change my name on my passport after marriage?",
+      "Passport change of data",
+      "How to fix a spelling error on my passport",
+      "Change of name on passport",
+      "Passport name correction",
+      "Correct error on passport"
+    ],
+    "answer_text": "Apply online for 'change of data' and pay a non-refundable administrative charge. Depending on the case you will upload an application letter, a court affidavit, a newspaper publication of the name change, your state-of-origin letter, birth certificate or age declaration, and your passport data page; for a marital name change also upload your marriage certificate. Name replacement, addition, deletion or rearrangement is handled through the change-details service on the NIS portal. You must then attend the passport office with your current booklet for biometric capture."
+  },
+  {
+    "id": "pp-processing-time",
+    "document": "nis-passport-portal",
+    "section_title": "Processing time and tracking",
+    "question_text": "How long does it take to get a Nigerian passport?",
+    "alt_questions": [
+      "Passport processing time",
+      "Track passport application",
+      "When will my passport be ready?",
+      "How long does passport take?",
+      "How do I track my passport application?",
+      "Passport processing time Nigeria",
+      "How long will it take to get my passport?",
+      "How long passport dey take?",
+      "Track passport status"
+    ],
+    "answer_text": "NIS does not publish a guaranteed processing time; under the automated e-passport system, production typically takes from about two to six weeks after successful biometric capture, depending on the office and booklet availability. The portal's document-management system lets you track your application status and you are notified when the passport is ready for collection at the office where you were captured. Appointments at busy offices (Lagos, Abuja, Kano) can be some weeks away, so apply early."
+  },
+  {
+    "id": "pp-where",
+    "document": "nis-passports",
+    "section_title": "Passport offices",
+    "question_text": "Where can I apply for a passport?",
+    "alt_questions": [
+      "Passport office near me",
+      "Can I apply for passport outside my state?",
+      "Immigration office location",
+      "Where is the passport office?",
+      "Can I apply for passport in Lagos if I am from Kano?",
+      "How do I contact immigration about my passport?",
+      "Which passport office can I use?",
+      "Passport office in my state",
+      "NIS contact number",
+      "Immigration customer care number",
+      "How do I contact the Nigeria Immigration Service?"
+    ],
+    "answer_text": "Applications start online at passport.immigration.gov.ng, where you choose any NIS passport office in Nigeria for your biometric capture appointment (you are not restricted to your state of origin). There are passport offices in all 36 states and the FCT. Nigerians abroad apply through passportintl.immigration.gov.ng and attend the nearest Nigerian embassy, high commission or consulate. NIS contact: +234-912-1900-655, nis.servicom@nigeriaimmigration.gov.ng."
+  },
+  {
+    "id": "pp-touts",
+    "document": "nis-passports",
+    "section_title": "Avoiding touts",
+    "question_text": "Should I use an agent to get my passport faster?",
+    "alt_questions": [
+      "Passport agent",
+      "Passport fast track",
+      "Passport middlemen",
+      "Should I use an agent for passport?",
+      "Passport fast track agent",
+      "Is it ok to pay someone to get my passport quickly?",
+      "Can someone help me get passport faster for a fee?",
+      "Passport agent fee",
+      "Avoid passport touts",
+      "An officer asked me for money at the passport office",
+      "Immigration officer is asking for a bribe",
+      "They asked me to pay extra at the passport office",
+      "Someone at immigration wants money to speed up my passport"
+    ],
+    "answer_text": "NIS automated passport issuance specifically to remove middlemen and touting. Pay only on the official portal, type the address yourself, and attend your appointment in person. Nobody can lawfully issue a passport outside the official process, and paying a tout exposes you to fraud and to a passport record that may later be flagged. Use the official helpline (+234-912-1900-655) if you have problems with your application."
+  },
+  {
+    "id": "dl-overview",
+    "document": "frsc-dl-faq",
+    "section_title": "About the National Driver's Licence",
+    "question_text": "What is the National Driver's Licence and who issues it?",
+    "alt_questions": [
+      "Who issues driver's licence in Nigeria?",
+      "FRSC driver's licence",
+      "Driver's licence classes",
+      "What is the national driver's licence?",
+      "What are driver's licence classes?",
+      "Is FRSC in charge of driving licence?",
+      "Which agency gives driver's licence?",
+      "Na FRSC dey give driver licence?"
+    ],
+    "answer_text": "The National Driver's Licence is issued under a scheme run by the Federal Road Safety Corps (FRSC) together with the Joint Tax Board and the state Motor Vehicle Administration offices (Board of Internal Revenue / VIO). Applications are made on the official portal nigeriadriverslicence.frsc.gov.ng (the old address nigeriadriverslicence.org redirects there). Licences are issued in classes; fresh applicants may apply for up to two classes, A (motorcycle/tricycle) and B (private motor vehicle). Commercial classes are processed at a capture centre, not from the portal home page."
+  },
+  {
+    "id": "dl-fresh-steps",
+    "document": "frsc-dl-faq",
+    "section_title": "Fresh application",
+    "question_text": "How do I apply for a new driver's licence?",
+    "alt_questions": [
+      "Driver's licence application process",
+      "How to get driver's license in Nigeria",
+      "Steps for fresh driver's licence",
+      "How do I get a driver's licence?",
+      "Steps to apply for driving licence",
+      "I just finished driving school, what next?",
+      "How to get drivers license in Nigeria",
+      "New driver's licence application",
+      "First time driver's licence",
+      "How do I apply for a fresh driver's licence?"
+    ],
+    "answer_text": "1) Complete mandatory training at an FRSC-accredited driving school and collect your driving school certificate number. 2) Go to nigeriadriverslicence.frsc.gov.ng, open 'DL Application' and select 'New Driver's Licence'. 3) Enter your certificate number, fill in your personal details (you need a valid NIN), choose your licence class(es) and validity (3 or 5 years) and answer 'No' to having a previous licence. 4) Pay online by card, at a bank, by POS at a licence centre or through the eWallet. 5) Visit a Processing/Capture Centre in person (find one under Contact > Capture Centre by state and LGA) for biometric capture and your driving test with the Vehicle Inspection Officer. 6) You receive a temporary licence; track the permanent card under 'Track DL Application Status' and collect it when ready."
+  },
+  {
+    "id": "dl-requirements",
+    "document": "frsc-dl-faq",
+    "section_title": "Requirements",
+    "question_text": "What are the requirements for a driver's licence?",
+    "alt_questions": [
+      "Driver's licence requirements Nigeria",
+      "Minimum age for driver's licence",
+      "Do I need NIN for driver's licence?",
+      "What are the requirements for driver's licence?",
+      "Minimum age for driver's licence in Nigeria",
+      "Do I need driving school for a licence?",
+      "Driving licence requirements",
+      "How old must I be to get a driver's licence?",
+      "What do I need to get a driver's licence?"
+    ],
+    "answer_text": "You must be at least 18 years old; hold a valid National Identification Number (NIN); have completed training at an accredited driving school and hold its certificate number; pass the written and practical driving tests administered at the capture centre; present a medical certificate of fitness (mandatory for commercial classes); provide passport photographs; and pay the official fee. You must attend the capture centre in person; nobody can capture biometrics or submit photographs on your behalf."
+  },
+  {
+    "id": "dl-fees",
+    "document": "frsc-dl-fees-2024",
+    "section_title": "Fees",
+    "question_text": "How much does a driver's licence cost?",
+    "alt_questions": [
+      "Driver's licence fee 3 years",
+      "Driver's licence fee 5 years",
+      "Cost of motorcycle licence",
+      "Driver's licence price Nigeria",
+      "How much is driver's licence?",
+      "Driver's licence price 3 years",
+      "How much is drivers license now?",
+      "How much dem dey charge for drivers licence?",
+      "Driving licence cost",
+      "How much will the licence cost?"
+    ],
+    "answer_text": "The fees approved by the Joint Tax Board, effective 1 November 2024, are: motor vehicle classes (Class B and others) ₦15,000 for 3-year validity and ₦21,000 for 5-year validity; motorcycle and tricycle (Class A) ₦7,000 for 3 years and ₦11,000 for 5 years. Each class is charged separately, and bank or card payment channels may add small charges. Renewal costs the same as a fresh licence of the same class and validity. Pay only through the official portal or designated banks; the amount shown on the portal at payment is the one that applies."
+  },
+  {
+    "id": "dl-renewal",
+    "document": "frsc-dl-faq",
+    "section_title": "Renewal",
+    "question_text": "How do I renew my driver's licence?",
+    "alt_questions": [
+      "Driver's licence renewal",
+      "My driver's licence has expired",
+      "Renew driving licence online",
+      "My driving licence expired",
+      "Driver's licence renewal steps",
+      "Licence expired, what next?",
+      "Drivers licence renewal process"
+    ],
+    "answer_text": "Go to nigeriadriverslicence.frsc.gov.ng, open 'DL Application' and select 'Renewal of Driver's Licence'. Enter your existing driver's licence number, confirm your details, choose a 3-year or 5-year validity and pay online. Then visit a capture centre for a fresh biometric capture (no new driving school training is needed). If your licence has expired you must use Renewal; if it is still valid but lost or damaged, use Re-Issue. A renewed licence remains valid until its new expiry date."
+  },
+  {
+    "id": "dl-reissue",
+    "document": "frsc-dl-faq",
+    "section_title": "Lost or stolen licence",
+    "question_text": "What do I do if my driver's licence is lost or stolen?",
+    "alt_questions": [
+      "Replace lost driver's licence",
+      "Re-issue driver's licence",
+      "Damaged driver's licence",
+      "I lost my driver's licence",
+      "My licence was stolen",
+      "Replace damaged driver's licence",
+      "Driver's licence re-issue",
+      "I don lose my driver licence",
+      "Lost driving licence replacement",
+      "Stolen driver's licence what to do"
+    ],
+    "answer_text": "If the licence is still within its validity period, go to 'DL Application' > 'Re-Issue of Driver's Licence' on nigeriadriverslicence.frsc.gov.ng, enter your existing licence number, pay and attend a capture centre. A police report is advisable for a stolen licence. If the lost licence has already expired, use the Renewal option instead. Upgrades (adding or removing a class) are also done through the renewal or re-issue flow using your existing licence number; adding a class is charged separately."
+  },
+  {
+    "id": "dl-validity",
+    "document": "frsc-dl-faq",
+    "section_title": "Validity",
+    "question_text": "How long is a driver's licence valid for?",
+    "alt_questions": [
+      "Driver's licence validity period",
+      "3 years or 5 years licence",
+      "How long is driver's licence valid?",
+      "Is driving licence 3 or 5 years?",
+      "How long does a driver's licence last?",
+      "Validity of national driver's licence",
+      "How long is it valid?"
+    ],
+    "answer_text": "At application you choose either a 3-year or a 5-year validity period. The fee depends on the validity and the licence class. You should begin renewal before the expiry date; driving with an expired licence is an offence under FRSC regulations."
+  },
+  {
+    "id": "dl-tracking",
+    "document": "frsc-dl-faq",
+    "section_title": "Tracking and collection",
+    "question_text": "How do I track my driver's licence application or collect my card?",
+    "alt_questions": [
+      "Check driver's licence status",
+      "Where do I collect my driver's licence?",
+      "Driver's licence not ready",
+      "How do I check my driver's licence status?",
+      "Where do I collect my driver's licence card?",
+      "My driver's licence is not ready",
+      "Track driver's licence application",
+      "Where do I pick up my licence?",
+      "Driver's licence collection",
+      "Check licence application status",
+      "FRSC contact number",
+      "FRSC customer care number",
+      "How do I contact FRSC?"
+    ],
+    "answer_text": "Use 'Track DL Application Status' on nigeriadriverslicence.frsc.gov.ng with your application ID or licence number and date of birth. You can edit an application only before payment, and unpaid applications are deleted after three months. The permanent card is collected at the Motor Vehicle Administration / licensing office linked to the capture centre you used; the temporary licence covers you until then. For help call FRSC on 0700-2255-3772 or the toll-free emergency line 122."
+  },
+  {
+    "id": "dl-commercial",
+    "document": "frsc-dl-faq",
+    "section_title": "Commercial and diplomatic licences",
+    "question_text": "How do I get a commercial driver's licence?",
+    "alt_questions": [
+      "Commercial driver's licence requirements",
+      "Licence for trucks and buses",
+      "Diplomatic driver's licence",
+      "Licence for driving trucks",
+      "Commercial driving licence requirements",
+      "Licence for buses and trucks",
+      "Commercial licence class"
+    ],
+    "answer_text": "Commercial licence classes cannot be started from the portal home page. Go in person to a capture centre with your driving school certificate and a medical certificate of fitness; an FRSC operator will initiate the application for you, after which you pay and complete biometric capture. Diplomatic licences are issued only at FRSC Headquarters in Abuja on presentation of documents confirming diplomatic status."
+  },
+  {
+    "id": "br-overview",
+    "document": "npc-civil-registration",
+    "section_title": "Civil registration",
+    "question_text": "What is civil registration and who is responsible for it in Nigeria?",
+    "alt_questions": [
+      "Who issues birth certificates in Nigeria?",
+      "What is NPC?",
+      "Which events are registered by NPC?",
+      "What is civil registration?",
+      "Which agency registers births?",
+      "Who is responsible for birth registration?",
+      "National Population Commission role",
+      "What does NPC do?"
+    ],
+    "answer_text": "Civil registration is the continuous, compulsory and universal recording of vital events: births, deaths, stillbirths, marriages and related events. In Nigeria the National Population Commission (NPC) is responsible for registering births, deaths and stillbirths under the Births, Deaths, Etc. (Compulsory Registration) Act No. 69 of 1992. NPC operates about 4,000 registration centres across the 774 Local Government Areas, with at least four centres in each LGA. The NPC birth certificate is the legal proof of age, parentage and place of birth and is required for passports, NIN date-of-birth records, school enrolment and more."
+  },
+  {
+    "id": "br-how-register",
+    "document": "npc-birth-selfservice",
+    "section_title": "Registering a birth",
+    "question_text": "How do I register my child's birth and get a birth certificate?",
+    "alt_questions": [
+      "Birth registration process",
+      "How to get NPC birth certificate",
+      "Where do I register a birth?",
+      "Birth certificate for newborn",
+      "How do I register my child's birth?",
+      "How to get birth certificate",
+      "Where do I register a newborn?",
+      "How do I get my baby's birth certificate?",
+      "Where I fit register my pikin birth?",
+      "Birth certificate for my child",
+      "Steps to register a birth"
+    ],
+    "answer_text": "In person: take the child (or hospital birth notification) to the nearest NPC registration centre, often located at the Local Government secretariat, primary health centre or general hospital. The registrar records the child's name, date and place of birth and the parents' details and issues the NPC birth certificate. Online: a parent with a NIN can create an account on the NPC Birth Registration Self-service portal (birthreg-selfservice.nationalpopulation.gov.ng, part of the eCRVS system), complete facial verification, enter the child's and parents' details, submit, track the application and download the certificate once approved (it can be downloaded only once, so save it). Register as early as possible; the law expects births to be registered within 60 days."
+  },
+  {
+    "id": "br-documents",
+    "document": "npc-birth-selfservice",
+    "section_title": "Documents for birth registration",
+    "question_text": "What documents do I need to register a birth?",
+    "alt_questions": [
+      "Birth registration requirements",
+      "Documents for birth certificate",
+      "What do I bring for birth certificate?",
+      "Documents for birth registration",
+      "What do I need to get a birth certificate?"
+    ],
+    "answer_text": "Bring the hospital birth notification or immunisation card (or a statement from the traditional birth attendant or a witness for home births), the parents' identification (NIN slip, passport, voter's card or driver's licence), the parents' marriage certificate if available, and the child's full name, date and place of birth. For the online self-service route the registering parent needs their NIN, an email address and a device with a camera for facial verification."
+  },
+  {
+    "id": "br-cost",
+    "document": "npc-vitalreg-2026",
+    "section_title": "Cost",
+    "question_text": "How much does birth registration cost?",
+    "alt_questions": [
+      "Is birth registration free?",
+      "Birth certificate fee",
+      "NPC charges for birth certificate",
+      "How much is birth certificate?",
+      "Birth certificate fee NPC",
+      "Do I pay to register my child's birth?",
+      "Birth certificate na free?",
+      "Cost of registering a birth",
+      "Is it free to register a newborn?",
+      "Birth registration charges"
+    ],
+    "answer_text": "Birth registration for children under five is free at NPC registration centres. Some online self-service options, late registrations and attestation services attract official fees, which are displayed on the NPC portal before you pay; pay only through the portal's official payment channel. If anyone at a centre demands payment for registering a child under five, ask for an official receipt or report it to NPC."
+  },
+  {
+    "id": "br-late",
+    "document": "npc-civil-registration",
+    "section_title": "Late registration",
+    "question_text": "Can I register a birth late, or get a birth certificate as an adult?",
+    "alt_questions": [
+      "Late birth registration",
+      "Birth certificate for adults",
+      "I was never registered at birth",
+      "Can I get a birth certificate at 25?",
+      "How do I get a birth certificate as an adult?",
+      "Registering a birth years later",
+      "Birth certificate for a 10 year old"
+    ],
+    "answer_text": "Yes. Births should be registered within 60 days, but NPC still registers older children. Children under five are registered free; for older children and adults who were never registered, NPC issues an Attestation of Birth (sometimes called a birth attestation certificate) after you provide supporting evidence such as a baptismal card, school record, sworn age declaration, parent's identification or hospital records. Attestations can be requested at a registration centre or through the NPC online portals and attract an official fee."
+  },
+  {
+    "id": "br-attestation-vs-certificate",
+    "document": "npc-civil-registration",
+    "section_title": "Attestation vs certificate",
+    "question_text": "What is the difference between a birth certificate and an attestation of birth?",
+    "alt_questions": [
+      "Birth attestation meaning",
+      "Do I need attestation or certificate for passport?",
+      "What is attestation of birth?",
+      "Difference between birth certificate and attestation",
+      "Do I need attestation or birth certificate for passport?",
+      "Attestation of birth meaning",
+      "Birth attestation vs birth certificate"
+    ],
+    "answer_text": "A birth certificate is issued when a birth is registered (ideally within 60 days and in any case while the child is young) and is the primary civil record. An Attestation of Birth is a document NPC issues for a person whose birth was not registered at the time, based on evidence presented later; it serves as proof of date and place of birth for passports, NIN modification and other purposes. NIS accepts the NPC birth certificate for applicants born from December 1992 and an age declaration or NPC attestation for older applicants. For NIN date-of-birth correction, those born before 1992 use the attestation and those born later use the birth certificate."
+  },
+  {
+    "id": "br-online-portals",
+    "document": "npc-vitalreg-2026",
+    "section_title": "Online portals",
+    "question_text": "Can I register a birth or death online in Nigeria?",
+    "alt_questions": [
+      "NPC online portal",
+      "eCRVS Nigeria",
+      "VitalReg",
+      "Digital birth registration",
+      "Can I register a birth online?",
+      "What is eCRVS?",
+      "How do I get a birth certificate online?",
+      "Online birth registration Nigeria",
+      "NPC self-service portal",
+      "Can I do it online?",
+      "E dey possible to do birth registration for internet?",
+      "NPC website",
+      "Birth registration website",
+      "What is the NPC portal address?"
+    ],
+    "answer_text": "Yes. NPC's electronic Civil Registration and Vital Statistics (eCRVS) system became fully operational nationwide from July 2026 across all 36 states and the FCT. Portals: birthreg-selfservice.nationalpopulation.gov.ng (birth registration self-service), ecrvs.nationalpopulation.gov.ng (eCRVS), and foreignbirth.nationalpopulation.gov.ng (notification of births abroad). You create an account with your name, email and NIN plus facial verification, choose the service (birth or death registration, attestation, certificate re-issue where offered), submit, track, and download the digital certificate. Always type the addresses yourself to avoid fake sites."
+  },
+  {
+    "id": "br-death",
+    "document": "npc-civil-registration",
+    "section_title": "Death registration",
+    "question_text": "How do I register a death and get a death certificate?",
+    "alt_questions": [
+      "Death certificate Nigeria",
+      "Register a death NPC",
+      "How do I get a death certificate?",
+      "Register a death in Nigeria",
+      "Death registration NPC",
+      "Where do I register my father's death?",
+      "Death certificate requirements",
+      "How to register a death",
+      "Who issues death certificates?"
+    ],
+    "answer_text": "Deaths are registered with the National Population Commission. Take the medical certificate of cause of death from the hospital (or a statement from a witness for deaths at home) and the deceased's identification to the nearest NPC registration centre, or use the death registration service on the NPC online portal, where the certificate is issued digitally where applicable. Death certificates are needed for burial permits, inheritance, insurance and pension claims."
+  },
+  {
+    "id": "gen-what-can-you-do",
+    "document": "about-assistant",
+    "section_title": "Scope",
+    "question_text": "What can you help me with?",
+    "alt_questions": [
+      "Hello",
+      "Hi",
+      "Good morning",
+      "What is Tambaya NG?",
+      "Help",
+      "What services do you cover?",
+      "Good afternoon",
+      "Good evening",
+      "What can you do?",
+      "Hey",
+      "Who are you?",
+      "What is this?",
+      "How can you help me?"
+    ],
+    "answer_text": "Tambaya NG answers questions about four Nigerian public services using verified information from the responsible agencies: the National Identification Number (NIMC), the international passport (Nigeria Immigration Service), the National Driver's Licence (FRSC) and birth and civil registration (National Population Commission). You can ask in English, Hausa, Yoruba, Igbo or Nigerian Pidgin about requirements, documents, steps, fees and where to go, and every answer shows the official source. I give information and guidance only; I cannot enrol you, issue documents, process payments or check your personal records, and I will point you to the official channel when you need to take action."
+  },
+  {
+    "id": "gen-boundary",
+    "document": "about-assistant",
+    "section_title": "Boundary",
+    "question_text": "Can you apply for a passport or NIN on my behalf?",
+    "alt_questions": [
+      "Can you check my NIN status?",
+      "Can you book my appointment?",
+      "Do you process applications?",
+      "Can you apply for my passport?",
+      "Can you book an appointment for me?",
+      "Can you register me for NIN?",
+      "Are you a government website?",
+      "Can you verify my NIN?",
+      "Can you look up my passport status?",
+      "My NIN is this, is it valid?"
+    ],
+    "answer_text": "No. Tambaya NG is an information and guidance assistant, not a government portal. It does not perform transactions, access any government database, verify identities, make payments or approve applications, and it never asks for your NIN, passport number or other personal identifiers. For any actual application or transaction, use the official channel: nimc.gov.ng and *346# for NIN, passport.immigration.gov.ng for passports, nigeriadriverslicence.frsc.gov.ng for driver's licences and the NPC registration centres or eCRVS portals for birth registration."
+  },
+  {
+    "id": "pp-lost",
+    "document": "nis-passports",
+    "section_title": "Lost or stolen passport",
+    "question_text": "What do I do if my passport is lost or stolen?",
+    "alt_questions": [
+      "I lost my passport",
+      "My passport was stolen",
+      "How do I replace a lost passport?",
+      "Lost international passport what to do",
+      "Passport missing",
+      "Someone stole my passport",
+      "How to get a new passport after losing it",
+      "My passport got lost abroad"
+    ],
+    "answer_text": "If your Nigerian passport is lost or stolen: 1) Report it to the police promptly and obtain a police report that states your passport number. 2) Find a copy of the passport data page, or at least the passport number and date of issue. 3) Write an application letter to the Comptroller General of Immigration (or apply online on passport.immigration.gov.ng), attaching the police report, the data page copy and two passport photographs, and pay the official fee on the portal. 4) The application is reviewed and approved at NIS Headquarters in Abuja before a new booklet is issued, after which you are called for biometric capture in person. If you are abroad and need to travel back to Nigeria urgently, the Nigerian embassy or high commission can issue an Emergency Travel Certificate. Keep the police report, because the old passport number is flagged."
+  },
+  {
+    "id": "gen-misuse",
+    "document": "about-assistant",
+    "section_title": "Requests I cannot help with",
+    "question_text": "Can you help me get a fake NIN, passport or licence?",
+    "alt_questions": [
+      "How can I get a driver's licence without a test?",
+      "Help me make a fake birth certificate",
+      "How do I buy a passport without capture?",
+      "Can I use someone else's NIN to register?",
+      "How do I change my age on my NIN to look younger?",
+      "Can I get two NINs?",
+      "How do I bribe the officer?"
+    ],
+    "answer_text": "I can't help with that. Making or buying fake documents, getting a passport or licence without capture or testing, using someone else's NIN, or changing records with false information is a crime in Nigeria and can lead to prosecution. The legitimate routes are: NIN enrolment is free at NIMC centres (nimc.gov.ng); passports go through passport.immigration.gov.ng with in-person biometric capture; driver's licences need driving school and a test through nigeriadriverslicence.frsc.gov.ng; and birth records go through the NPC. If your record has a genuine error, use the official modification process. Ask me about any of these steps and I will explain them."
+  }
+]

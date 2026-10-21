@@ -1,0 +1,34 @@
+# Alternative blueprint that ALSO creates a free Render Postgres (only works if your Render account has no other free database).
+# To use it: rename to render.yaml (replacing the default one), commit, push, then sync the blueprint.
+services:
+  - type: web
+    name: tambaya-ng
+    runtime: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    # Explicit, quote-free start command. A blueprint sync writes this into the service settings, replacing any
+    # older value (Render keeps the previously synced command even if the key is removed).
+    dockerCommand: sh /app/start.sh
+    healthCheckPath: /api/health
+    envVars:
+      - key: DATABASE_URL
+        fromDatabase:
+          name: tambaya-db
+          property: connectionString
+      - key: ADMIN_TOKEN
+        generateValue: true
+      - key: GROQ_API_KEY
+        sync: false
+      - key: GROQ_MODEL
+        value: openai/gpt-oss-120b
+      - key: GROQ_FALLBACK_MODEL
+        value: openai/gpt-oss-20b
+      - key: CORS_ORIGINS
+        value: https://tambaya-ng.onrender.com
+      - key: PYTHONUNBUFFERED
+        value: "1"
+
+databases:
+  - name: tambaya-db
+    plan: free
+    postgresMajorVersion: "16"

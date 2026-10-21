@@ -1,0 +1,7 @@
+backend/.env
+backend/.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+pgdata/
+.DS_Store

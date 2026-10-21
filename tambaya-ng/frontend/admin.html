@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Tambaya NG admin</title>
+  <meta name="robots" content="noindex">
+  <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,400..700&family=Merriweather:opsz,wght@18..144,300..700&family=Noto+Sans+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/tokens.css">
+  <link rel="stylesheet" href="/css/app.css">
+  <link rel="stylesheet" href="/css/admin.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="/" aria-label="Tambaya NG home">
+      <svg class="brand-mark" viewBox="0 0 32 32" aria-hidden="true"><path d="M6 9.5C6 7 8 5 10.5 5h11C24 5 26 7 26 9.5v8c0 2.5-2 4.5-4.5 4.5H15l-5.2 4.3c-.7.6-1.8.1-1.8-.8V22A4.5 4.5 0 0 1 6 17.5v-8Z" fill="currentColor" opacity=".18"/><path d="M11 11.5h10M11 15.5h7" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/><circle cx="22.5" cy="23.5" r="3.5" fill="var(--accent)"/></svg>
+      <span class="brand-name">Tambaya <span class="brand-ng">NG</span></span>
+    </a>
+    <span class="admin-tag">Knowledge base</span>
+    <div class="topbar-actions">
+      <label class="token-field"><span class="sr-only">Admin token</span><input id="token" type="password" placeholder="Admin token" autocomplete="current-password"></label>
+      <button class="send-btn" id="connect" type="button"><span class="send-label">Connect</span></button>
+    </div>
+  </header>
+
+  <main class="admin" id="admin">
+    <section class="stats" id="stats" aria-label="Overview"></section>
+
+    <section class="panel">
+      <div class="panel-head">
+        <h2>Entries</h2>
+        <div class="filters">
+          <input id="q" type="search" placeholder="Search question, answer or key">
+          <select id="f-lang" aria-label="Language"><option value="">All languages</option><option value="en">English</option><option value="ha">Hausa</option><option value="yo">Yorùbá</option><option value="ig">Igbo</option></select>
+          <select id="f-status" aria-label="Review status"><option value="">Any status</option><option value="approved">Approved</option><option value="pending">Pending review</option><option value="rejected">Rejected</option></select>
+          <button class="ghost-btn" id="new-entry" type="button">Add entry</button>
+        </div>
+      </div>
+      <div class="table-wrap">
+        <table id="entries">
+          <thead><tr><th>Key</th><th>Lang</th><th>Question</th><th>Document</th><th>Status</th><th>Embedding</th><th></th></tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+      <p class="empty" id="empty" hidden>No entries match. Clear the filters or add one.</p>
+    </section>
+
+    <section class="panel">
+      <div class="panel-head">
+        <h2>Refresh from an official page</h2>
+        <p>Scrapes the document's source URL with Firecrawl and stages the text as pending entries. Nothing is used in answers until you approve it.</p>
+      </div>
+      <form id="refresh-form" class="inline-form">
+        <select id="refresh-doc" aria-label="Document"></select>
+        <input id="refresh-url" type="url" placeholder="Override URL (optional)">
+        <select id="refresh-lang" aria-label="Language of the page"><option value="en">English</option><option value="ha">Hausa</option><option value="yo">Yorùbá</option><option value="ig">Igbo</option></select>
+        <button class="send-btn" type="submit"><span class="send-label">Stage refresh</span></button>
+        <button class="ghost-btn" id="reingest" type="button" title="Reload the JSON knowledge files from disk">Re-ingest JSON files</button>
+      </form>
+      <p class="result" id="refresh-result"></p>
+    </section>
+  </main>
+
+  <dialog id="editor">
+    <form method="dialog" id="editor-form" class="editor">
+      <h2 id="editor-title">Edit entry</h2>
+      <div class="grid2">
+        <label>Entry key<input name="entry_key" required pattern="[a-z0-9\-]{2,64}" title="lowercase letters, digits and hyphens"></label>
+        <label>Language<select name="language_code"><option value="en">English</option><option value="ha">Hausa</option><option value="yo">Yorùbá</option><option value="ig">Igbo</option></select></label>
+        <label>Document<select name="document_slug" id="editor-doc"></select></label>
+        <label>Section title<input name="section_title"></label>
+      </div>
+      <label>Question<input name="question_text" required></label>
+      <label>Alternative phrasings (one per line)<textarea name="alt_questions" rows="3"></textarea></label>
+      <label>Verified answer<textarea name="answer_text" rows="7" required></textarea></label>
+      <div class="grid2">
+        <label>Page reference<input name="page_reference"></label>
+        <label>Review status<select name="review_status"><option value="approved">Approved</option><option value="pending">Pending</option><option value="rejected">Rejected</option></select></label>
+      </div>
+      <label class="check"><input type="checkbox" name="is_active" checked> Active (used in answers)</label>
+      <div class="editor-actions">
+        <button class="ghost-btn" type="button" id="editor-cancel">Cancel</button>
+        <button class="send-btn" type="submit" id="editor-save"><span class="send-label">Save entry</span></button>
+      </div>
+      <p class="result" id="editor-error"></p>
+    </form>
+  </dialog>
+
+  <script src="/js/admin.js" defer></script>
+</body>
+</html>

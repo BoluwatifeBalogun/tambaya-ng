@@ -1,0 +1,288 @@
+{
+  "languages": [
+    {
+      "code": "en",
+      "name": "English",
+      "native_name": "English",
+      "is_active": true,
+      "native_kb": true
+    },
+    {
+      "code": "ha",
+      "name": "Hausa",
+      "native_name": "Hausa",
+      "is_active": true,
+      "native_kb": true
+    },
+    {
+      "code": "yo",
+      "name": "Yoruba",
+      "native_name": "Yorùbá",
+      "is_active": true,
+      "native_kb": false
+    },
+    {
+      "code": "ig",
+      "name": "Igbo",
+      "native_name": "Igbo",
+      "is_active": true,
+      "native_kb": false
+    },
+    {
+      "code": "pcm",
+      "name": "Nigerian Pidgin",
+      "native_name": "Naijá",
+      "is_active": true,
+      "native_kb": true
+    }
+  ],
+  "agencies": [
+    {
+      "slug": "nimc",
+      "name": "National Identity Management Commission (NIMC)",
+      "description": "Federal agency responsible for the National Identity Database and the National Identification Number (NIN).",
+      "website_url": "https://nimc.gov.ng",
+      "contact_info": "USSD *346#; NIMC Self-Service Modification portal selfservicemodification.nimc.gov.ng; NINAuth app; helpdesk via nimc.gov.ng"
+    },
+    {
+      "slug": "nis",
+      "name": "Nigeria Immigration Service (NIS)",
+      "description": "Federal agency responsible for Nigerian passports, visas and border control.",
+      "website_url": "https://immigration.gov.ng",
+      "contact_info": "Passport portal passport.immigration.gov.ng; +234-912-1900-655; nis.servicom@nigeriaimmigration.gov.ng"
+    },
+    {
+      "slug": "frsc",
+      "name": "Federal Road Safety Corps (FRSC)",
+      "description": "Lead agency for road safety; manages the National Driver's Licence scheme with the Joint Tax Board and state motor vehicle administrations.",
+      "website_url": "https://frsc.gov.ng",
+      "contact_info": "Driver's licence portal nigeriadriverslicence.frsc.gov.ng; toll-free 122; 0700-2255-3772"
+    },
+    {
+      "slug": "npc",
+      "name": "National Population Commission (NPC)",
+      "description": "Federal agency responsible for civil registration (births, deaths, stillbirths) and vital statistics.",
+      "website_url": "https://nationalpopulation.gov.ng",
+      "contact_info": "Birth registration self-service birthreg-selfservice.nationalpopulation.gov.ng; eCRVS ecrvs.nationalpopulation.gov.ng; about 4,000 registration centres across the 774 LGAs"
+    }
+  ],
+  "domains": [
+    {
+      "slug": "nin",
+      "agency": "nimc",
+      "name": "National Identification Number (NIN)",
+      "description": "NIN enrolment, retrieval, slip, modification and uses.",
+      "keywords": [
+        "nin",
+        "nimc",
+        "identity",
+        "national id",
+        "enrol",
+        "enrolment",
+        "slip",
+        "346",
+        "modification",
+        "lambar shaida",
+        "shaidar kasa",
+        "nọmba njirimara",
+        "nọ́mbà ìdánimọ̀",
+        "ninauth",
+        "nin slip",
+        "nimc app"
+      ]
+    },
+    {
+      "slug": "passport",
+      "agency": "nis",
+      "name": "International passport",
+      "description": "Nigerian standard passport application, renewal, fees, documents and offices.",
+      "keywords": [
+        "passport",
+        "fasfo",
+        "fasfon",
+        "immigration",
+        "nis",
+        "travel document",
+        "booklet",
+        "e-passport",
+        "iwe irinna",
+        "akwụkwọ ikike ngafe",
+        "passpọtụ"
+      ]
+    },
+    {
+      "slug": "drivers_licence",
+      "agency": "frsc",
+      "name": "Driver's licence",
+      "description": "National Driver's Licence application, renewal, re-issue, classes, fees and capture centres.",
+      "keywords": [
+        "driver",
+        "driving",
+        "licence",
+        "license",
+        "frsc",
+        "lasisin tuki",
+        "lasisi",
+        "mota",
+        "iwe-aṣẹ awakọ",
+        "ikike ịnya ụgbọ",
+        "learner",
+        "driving school"
+      ]
+    },
+    {
+      "slug": "civil_registration",
+      "agency": "npc",
+      "name": "Birth and civil registration",
+      "description": "Birth registration, birth certificate, attestation of birth, death registration and NPC portals.",
+      "keywords": [
+        "birth",
+        "birth certificate",
+        "attestation",
+        "civil registration",
+        "npc",
+        "population commission",
+        "death",
+        "haihuwa",
+        "takardar haihuwa",
+        "ìwé ẹ̀rí ìbí",
+        "akwụkwọ ọmụmụ",
+        "vitalreg",
+        "ecrvs"
+      ]
+    },
+    {
+      "slug": "general",
+      "agency": null,
+      "name": "General and about this assistant",
+      "description": "What the assistant can and cannot do, greetings, scope.",
+      "keywords": [
+        "hello",
+        "hi",
+        "sannu",
+        "ina kwana",
+        "what can you do",
+        "who are you",
+        "tambaya ng",
+        "ẹ n lẹ",
+        "ẹ káàbọ̀",
+        "ndewo",
+        "kedu",
+        "sannu",
+        "ina kwana",
+        "ẹ káàárọ̀",
+        "ụtụtụ ọma"
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "slug": "nimc-nin-overview",
+      "domain": "nin",
+      "title": "NIMC: National Identification Number (NIN) overview and enrolment",
+      "document_type": "webpage",
+      "source_url": "https://nimc.gov.ng/NIN",
+      "source_name": "National Identity Management Commission",
+      "last_verified": "2026-10-20"
+    },
+    {
+      "slug": "nimc-fee-schedule-2025",
+      "domain": "nin",
+      "title": "NIMC revised fee schedule for NIN services (May 2025)",
+      "document_type": "notice",
+      "source_url": "https://nimc.gov.ng",
+      "source_name": "NIMC fee schedule as published May 2025 (reported by Ripples Nigeria, Legit.ng)",
+      "last_verified": "2026-10-20"
+    },
+    {
+      "slug": "nimc-self-service",
+      "domain": "nin",
+      "title": "NIMC Self-Service Modification portal and USSD *346#",
+      "document_type": "webpage",
+      "source_url": "https://selfservicemodification.nimc.gov.ng",
+      "source_name": "NIMC Self-Service Modification portal",
+      "last_verified": "2026-10-20"
+    },
+    {
+      "slug": "nis-passports",
+      "domain": "passport",
+      "title": "Nigeria Immigration Service: Passports (types, requirements, procedure)",
+      "document_type": "webpage",
+      "source_url": "https://immigration.gov.ng/passports/",
+      "source_name": "Nigeria Immigration Service",
+      "last_verified": "2026-10-20"
+    },
+    {
+      "slug": "nis-passport-fees-2025",
+      "domain": "passport",
+      "title": "NIS passport fee review effective 1 September 2025",
+      "document_type": "notice",
+      "source_url": "https://immigration.gov.ng",
+      "source_name": "Nigeria Immigration Service statement, 28 August 2025",
+      "last_verified": "2026-10-20"
+    },
+    {
+      "slug": "nis-passport-portal",
+      "domain": "passport",
+      "title": "NIS passport application portal",
+      "document_type": "portal",
+      "source_url": "https://passport.immigration.gov.ng",
+      "source_name": "Nigeria Immigration Service passport portal",
+      "last_verified": "2026-10-20"
+    },
+    {
+      "slug": "frsc-dl-faq",
+      "domain": "drivers_licence",
+      "title": "FRSC National Driver's Licence portal: Frequently Asked Questions",
+      "document_type": "FAQ",
+      "source_url": "https://nigeriadriverslicence.frsc.gov.ng/faq",
+      "source_name": "FRSC Nigeria Driver's Licence portal",
+      "last_verified": "2026-10-20"
+    },
+    {
+      "slug": "frsc-dl-fees-2024",
+      "domain": "drivers_licence",
+      "title": "Joint Tax Board approved driver's licence fees effective 1 November 2024",
+      "document_type": "notice",
+      "source_url": "https://nigeriadriverslicence.frsc.gov.ng/faq",
+      "source_name": "JTB circular as reported by The Guardian Nigeria; FRSC portal fee table",
+      "last_verified": "2026-10-20"
+    },
+    {
+      "slug": "npc-civil-registration",
+      "domain": "civil_registration",
+      "title": "National Population Commission: Civil Registration and Vital Statistics",
+      "document_type": "webpage",
+      "source_url": "https://www.nationalpopulation.gov.ng/civil-registration",
+      "source_name": "National Population Commission",
+      "last_verified": "2026-10-20"
+    },
+    {
+      "slug": "npc-birth-selfservice",
+      "domain": "civil_registration",
+      "title": "NPC Birth Registration Self-service and eCRVS portals",
+      "document_type": "portal",
+      "source_url": "https://www.birthreg-selfservice.nationalpopulation.gov.ng/",
+      "source_name": "National Population Commission eCRVS",
+      "last_verified": "2026-10-20"
+    },
+    {
+      "slug": "npc-vitalreg-2026",
+      "domain": "civil_registration",
+      "title": "NPC nationwide digital birth and death registration (VitalReg), July 2026",
+      "document_type": "notice",
+      "source_url": "https://www.nationalpopulation.gov.ng",
+      "source_name": "National Population Commission announcement, reported by Pulse Nigeria and The Nigeria Lawyer, August 2026",
+      "last_verified": "2026-10-20"
+    },
+    {
+      "slug": "about-assistant",
+      "domain": "general",
+      "title": "About Tambaya NG and its boundaries",
+      "document_type": "internal",
+      "source_url": "https://nimc.gov.ng",
+      "source_name": "Tambaya NG project documentation",
+      "last_verified": "2026-10-20"
+    }
+  ]
+}

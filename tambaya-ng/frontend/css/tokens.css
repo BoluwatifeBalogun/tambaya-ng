@@ -1,0 +1,113 @@
+/* Tambaya NG design tokens. See docs/DESIGN.md. */
+:root {
+  color-scheme: dark;
+
+  /* Brand: ink green used as ink, never as a flag block */
+  --green-950: #06231B;
+  --green-900: #0B3D2E;
+  --green-700: #146C43;
+  --green-500: #1F9D5A;
+  --green-300: #8FD6A8;
+  --green-100: #E3F4E9;
+
+  /* Warm accent: palm-oil amber and laterite earth */
+  --amber-400: #E8A33D;
+  --amber-200: #F6D28F;
+  --amber-100: #FBEBD3;
+  --earth-500: #C8552A;
+
+  /* Warm neutrals */
+  --paper-0: #FBFAF7;
+  --paper-1: #F3F1EB;
+  --paper-2: #E7E4DB;
+  --stone-400: #A8A595;
+  --stone-500: #8A8778;
+  --stone-700: #55534A;
+  --ink-900: #171714;
+
+  /* Night surfaces (green-cast) */
+  --night-0: #0D1210;
+  --night-1: #121A16;
+  --night-2: #1B2620;
+  --night-3: #243229;
+
+  /* Semantic: dark (default) */
+  --bg: var(--night-0);
+  --surface: var(--night-1);
+  --surface-2: var(--night-2);
+  --surface-3: var(--night-3);
+  --text: #F3F1EB;
+  --text-2: #C9C6BA;
+  --muted: #8A8778;
+  --border: rgba(243, 241, 235, 0.09);
+  --border-strong: rgba(243, 241, 235, 0.18);
+  --brand: var(--green-500);
+  --brand-ink: var(--green-900);
+  --brand-fg: #FFFFFF;
+  --accent: var(--amber-400);
+  --accent-fg: #1B1304;
+  --bubble-user: #163C2E;
+  --bubble-user-fg: #EAF7EF;
+  --bubble-bot: var(--night-1);
+  --focus: var(--green-300);
+  --danger: #E0634A;
+  --scrim: rgba(13, 18, 16, 0.72);
+
+  /* Type */
+  --font-display: "Merriweather", "Noto Serif", Georgia, serif;
+  --font-sans: "Inter", "Noto Sans", system-ui, -apple-system, sans-serif;
+  --font-mono: "Noto Sans Mono", ui-monospace, "SF Mono", Menlo, monospace;
+  --fs-display: clamp(2.2rem, 1rem + 3.6vw, 4.1rem);
+  --fs-h1: clamp(1.9rem, 1.3rem + 2vw, 2.8rem);
+  --fs-h2: clamp(1.35rem, 1.1rem + 0.9vw, 1.75rem);
+  --fs-body: 1rem;
+  --fs-small: 0.875rem;
+  --fs-xs: 0.78rem;
+  --lh-tight: 1.08;
+  --lh-body: 1.58;
+
+  /* Shape */
+  --r-xs: 6px; --r-sm: 10px; --r-md: 14px; --r-lg: 20px; --r-xl: 28px; --r-pill: 999px;
+
+  /* Elevation (warm) */
+  --shadow-1: 0 0 0 1px rgba(0, 0, 0, 0.18), 0 2px 4px rgba(0, 0, 0, 0.22), 0 14px 32px rgba(0, 0, 0, 0.28);
+  --shadow-2: 0 1px 2px rgba(0, 0, 0, 0.3), 0 12px 32px rgba(0, 0, 0, 0.38), 0 32px 64px -16px rgba(6, 35, 27, 0.5);
+  --glass-line: inset 0 1px 0 rgba(255, 255, 255, 0.06);
+
+  /* Motion */
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
+  --d-fast: 150ms; --d-base: 300ms; --d-slow: 600ms; --d-reveal: 800ms;
+  --stagger: 50ms;
+  --blur-glass: blur(14px) saturate(1.4);
+
+  /* Layout */
+  --gutter: clamp(16px, 4vw, 48px);
+  --measure: 62ch;
+  --chat-width: 780px;
+}
+
+:root[data-theme="light"] {
+  color-scheme: light;
+  --bg: #FFFFFF;
+  --surface: #FFFFFF;
+  --surface-2: #F1F8F4;
+  --surface-3: #E3F4E9;
+  --text: #0E1F18;
+  --text-2: #3F5A4D;
+  --muted: #6B8577;
+  --border: rgba(11, 61, 46, 0.12);
+  --border-strong: rgba(11, 61, 46, 0.22);
+  --brand: var(--green-700);
+  --brand-ink: var(--green-900);
+  --accent: var(--green-500);
+  --accent-fg: #FFFFFF;
+  --bubble-user: var(--green-900);
+  --bubble-user-fg: #FFFFFF;
+  --bubble-bot: #FFFFFF;
+  --focus: var(--green-700);
+  --scrim: rgba(14, 31, 24, 0.5);
+  --shadow-1: 0 0 0 1px rgba(11, 61, 46, 0.04), 0 2px 4px rgba(11, 61, 46, 0.05), 0 12px 24px rgba(11, 61, 46, 0.06);
+  --shadow-2: 0 1px 2px rgba(11, 61, 46, 0.06), 0 8px 24px rgba(11, 61, 46, 0.08), 0 24px 48px -12px rgba(11, 61, 46, 0.16);
+  --glass-line: inset 0 1px 0 rgba(255, 255, 255, 0.9);
+}

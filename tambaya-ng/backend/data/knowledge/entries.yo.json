@@ -1,0 +1,291 @@
+[
+  {
+    "id": "nin-what-is",
+    "document": "nimc-nin-overview",
+    "section_title": "Kí ni NIN",
+    "question_text": "Kí ni Nọ́mbà Ìdánimọ̀ Orílẹ̀-èdè (NIN)?",
+    "alt_questions": [
+      "Kí ni NIN?",
+      "Ṣàlàyé NIN",
+      "Kí ló dé tí mo fi nílò NIN?",
+      "Kini NIN?",
+      "Kí ni NIN túmọ̀ sí?"
+    ],
+    "answer_text": "Nọ́mbà Ìdánimọ̀ Orílẹ̀-èdè (NIN) jẹ́ nọ́mbà oní-dígítì mọ́kànlá tí ó yàtọ̀ fún ẹnì kọ̀ọ̀kan, tí Àjọ Ìṣàkóso Ìdánimọ̀ Orílẹ̀-èdè (NIMC) ń fún gbogbo ọmọ orílẹ̀-èdè àti àwọn tó ń gbé ní Nàìjíríà lọ́nà òfin lẹ́yìn ìforúkọsílẹ̀ sínú Àkójọ Ìdánimọ̀ Orílẹ̀-èdè. A máa ń fún ni lẹ́ẹ̀kan ṣoṣo, ó sì wà pẹ̀lú rẹ títí láé. A ń lo NIN láti jẹ́rìí sí ẹni tí o jẹ́ fún iṣẹ́ bíi ìforúkọsílẹ̀ SIM, ìbéèrè pásípọ̀ọ̀tù, ìwé-àṣẹ awakọ̀, ìsopọ̀ BVN báńkì, ìforúkọsílẹ̀ JAMB àti ètò ìjọba."
+  },
+  {
+    "id": "nin-enrol-steps",
+    "document": "nimc-nin-overview",
+    "section_title": "Bí a ṣe ń forúkọ sílẹ̀",
+    "question_text": "Báwo ni mo ṣe lè forúkọ sílẹ̀ fún NIN?",
+    "alt_questions": [
+      "Ìforúkọsílẹ̀ NIN",
+      "Níbo ni mo ti lè gba NIN?",
+      "Àwọn ìgbésẹ̀ láti gba NIN",
+      "Bawo ni mo se le gba NIN?",
+      "Báwo ni mo ṣe lè gba NIN?"
+    ],
+    "answer_text": "Láti forúkọ sílẹ̀ fún NIN: 1) Lọ sí ilé-iṣẹ́ ìforúkọsílẹ̀ NIMC tàbí aṣojú tí NIMC fún ní ìwé-àṣẹ nítòsí rẹ. 2) Kún fọ́ọ̀mù ìforúkọsílẹ̀ (o lè bẹ̀rẹ̀ lórí ayélujára ní ojú-òpó NIMC). 3) Fi ìwé kan tí a tẹ́wọ́gbà hàn (bíi ìwé-ẹ̀rí ìbí, káàdì ìdìbò, ìwé-àṣẹ awakọ̀, pásípọ̀ọ̀tù tàbí ìkéde ọjọ́-orí). 4) A ó gba ìka mẹ́wẹ̀ẹ̀wá rẹ, fọ́tò ojú àti ìbuwọ́lù rẹ. 5) A ó fún ọ ní ìwé ìjẹ́rìí; a ó fún ọ ní NIN lẹ́yìn ìṣiṣẹ́ (ní ọjọ́ díẹ̀), o sì lè gbà á nípa pípe *346# láti nọ́mbà fóònù tí o fi forúkọ sílẹ̀. Ìforúkọsílẹ̀ jẹ́ ọ̀fẹ́."
+  },
+  {
+    "id": "nin-cost",
+    "document": "nimc-fee-schedule-2025",
+    "section_title": "Iye owó",
+    "question_text": "Èló ni ìforúkọsílẹ̀ NIN?",
+    "alt_questions": [
+      "Ṣé NIN jẹ́ ọ̀fẹ́?",
+      "Ṣé mo ní láti san owó fún NIN?",
+      "Èló ni NIN?",
+      "Elo ni NIN?"
+    ],
+    "answer_text": "Ìforúkọsílẹ̀ NIN àti ìwé NIN àkọ́kọ́ jẹ́ ỌFẸ́ ní àwọn ilé-iṣẹ́ NIMC àti àwọn aṣojú tí a fún ní ìwé-àṣẹ. NIMC kìlọ̀ fún gbogbo ènìyàn pé kí wọ́n má san owó fún ẹnikẹ́ni fún ìforúkọsílẹ̀ déédéé. Ìforúkọsílẹ̀ àkànṣe (VIP) nìkan ni a ń san owó fún, tí a ń ṣe ní àwọn yàrá ìdúró tí a fún ní ìwé-àṣẹ àti àwọn ilé-iṣẹ́ fízà, tí ìwé-owó NIMC ti oṣù May 2025 fi sí ₦20,000. Ròyìn ẹnikẹ́ni tó bá béèrè owó fún ìforúkọsílẹ̀ déédéé fún NIMC."
+  },
+  {
+    "id": "pp-fees",
+    "document": "nis-passport-fees-2025",
+    "section_title": "Owó pásípọ̀ọ̀tù",
+    "question_text": "Èló ni pásípọ̀ọ̀tù Nàìjíríà?",
+    "alt_questions": [
+      "Iye owó ìwé ìrìnnà",
+      "Owó pásípọ̀ọ̀tù olójú-ewé 32",
+      "Owó pásípọ̀ọ̀tù olójú-ewé 64"
+    ],
+    "answer_text": "Fún àwọn ìbéèrè tí a ṣe ní Nàìjíríà, owó tí ó bẹ̀rẹ̀ sí í ṣiṣẹ́ ní ọjọ́ kìíní oṣù Kẹsàn-án 2025 ni: ìwé olójú-ewé 32 tó wúlò fún ọdún 5 ₦100,000; ìwé olójú-ewé 64 tó wúlò fún ọdún 10 ₦200,000. Jẹ́rìí sí iye owó ìwé olójú-ewé 64 ọdún 5 lórí ojú-òpó nígbà tí o bá ń béèrè. Fún àwọn ọmọ Nàìjíríà ní òkè-òkun, owó náà kò yí padà: $150 (ojú-ewé 32, ọdún 5) àti $230 (ojú-ewé 64, ọdún 10). Ìsanwó jẹ́ lórí ayélujára nìkan ní passport.immigration.gov.ng."
+  },
+  {
+    "id": "pp-fresh-steps",
+    "document": "nis-passports",
+    "section_title": "Ìbéèrè tuntun",
+    "question_text": "Báwo ni mo ṣe lè béèrè fún pásípọ̀ọ̀tù Nàìjíríà tuntun?",
+    "alt_questions": [
+      "Ìlànà ìbéèrè pásípọ̀ọ̀tù",
+      "Bí a ṣe ń gba ìwé ìrìnnà",
+      "Pásípọ̀ọ̀tù àkọ́kọ́",
+      "Báwo ni mo ṣe lè gba pásípọ̀ọ̀tù?",
+      "Bawo ni a se n gba iwe irinna?",
+      "Báwo ni a ṣe ń gba ìwé ìrìnnà?"
+    ],
+    "answer_text": "1) Lọ sí passport.immigration.gov.ng (tẹ̀ ẹ́ fúnra rẹ) kí o sì kún fọ́ọ̀mù ìbéèrè lórí ayélujára. 2) Gbé ìwé-ẹ̀rí ìbí NPC rẹ tàbí ìkéde ọjọ́-orí láti Ilé-ẹjọ́ Gíga, lẹ́tà ìdánimọ̀ ìpínlẹ̀ tàbí ìjọba ìbílẹ̀ rẹ sókè, kí o sì sanwó lórí ayélujára. 3) Yan ọjọ́ ìpàdé ní ọ́fíìsì pásípọ̀ọ̀tù tí o fẹ́. 4) Wá fúnra rẹ ní ọjọ́ ìpàdé pẹ̀lú ìwé ìsanwó, ìwé ìpàdé àti àwọn ìwé rẹ gidi fún gbígbà ìka, fọ́tò àti ìbuwọ́lù. 5) Tọpa ìbéèrè rẹ lórí ojú-òpó kí o sì gba pásípọ̀ọ̀tù rẹ nígbà tí ó bá ṣetán. O nílò NIN tó wúlò."
+  },
+  {
+    "id": "dl-fees",
+    "document": "frsc-dl-fees-2024",
+    "section_title": "Owó ìwé-àṣẹ awakọ̀",
+    "question_text": "Èló ni ìwé-àṣẹ awakọ̀?",
+    "alt_questions": [
+      "Owó lásìnsì awakọ̀",
+      "Iye owó ìwé-àṣẹ awakọ̀ ọdún 3 tàbí 5"
+    ],
+    "answer_text": "Owó tí Ìgbìmọ̀ Owó-orí Àjọṣepọ̀ fọwọ́ sí, tó bẹ̀rẹ̀ ní ọjọ́ kìíní oṣù Kọkànlá 2024: ọkọ̀ ayọ́kẹ́lẹ́ (kíláàsì B àti àwọn mìíràn) ₦15,000 fún ọdún 3 àti ₦21,000 fún ọdún 5; alùpùpù àti kẹ̀kẹ́ ẹlẹ́sẹ̀ mẹ́ta (kíláàsì A) ₦7,000 fún ọdún 3 àti ₦11,000 fún ọdún 5. Kíláàsì kọ̀ọ̀kan ni a ń gba owó rẹ̀ lọ́tọ̀. San owó lórí ojú-òpó nigeriadriverslicence.frsc.gov.ng tàbí ní àwọn báńkì tí a yàn nìkan."
+  },
+  {
+    "id": "dl-fresh-steps",
+    "document": "frsc-dl-faq",
+    "section_title": "Ìbéèrè tuntun",
+    "question_text": "Báwo ni mo ṣe lè gba ìwé-àṣẹ awakọ̀ tuntun?",
+    "alt_questions": [
+      "Ìlànà ìwé-àṣẹ awakọ̀",
+      "Bí a ṣe ń gba lásìnsì awakọ̀ ní Nàìjíríà",
+      "Bawo ni a se n gba lasinsi awako ni Naijiria?",
+      "Báwo ni a ṣe ń gba lásìnsì awakọ̀?"
+    ],
+    "answer_text": "1) Parí ìdánilẹ́kọ̀ọ́ ní ilé-ẹ̀kọ́ awakọ̀ tí FRSC fọwọ́ sí kí o sì gba nọ́mbà ìwé-ẹ̀rí rẹ. 2) Lọ sí nigeriadriverslicence.frsc.gov.ng, ṣí 'DL Application' kí o yan 'New Driver's Licence'. 3) Tẹ nọ́mbà ìwé-ẹ̀rí rẹ, kún àlàyé rẹ (o nílò NIN), yan kíláàsì àti àkókò (ọdún 3 tàbí 5). 4) Sanwó lórí ayélujára, ní báńkì tàbí POS. 5) Lọ sí ilé-iṣẹ́ gbígbà ìka fúnra rẹ fún gbígbà ìka àti ìdánwò ìwakọ̀. 6) A ó fún ọ ní ìwé-àṣẹ ìgbà díẹ̀; tọpa káàdì gidi lórí ojú-òpó. O gbọ́dọ̀ tó ọmọ ọdún 18."
+  },
+  {
+    "id": "br-how-register",
+    "document": "npc-birth-selfservice",
+    "section_title": "Ìforúkọsílẹ̀ ìbí",
+    "question_text": "Báwo ni mo ṣe lè forúkọ ìbí ọmọ mi sílẹ̀ kí n sì gba ìwé-ẹ̀rí ìbí?",
+    "alt_questions": [
+      "Ìwé-ẹ̀rí ìbí NPC",
+      "Níbo ni a ti ń forúkọ ìbí sílẹ̀?",
+      "Ìforúkọsílẹ̀ ìbí ọmọ tuntun",
+      "Bawo ni a se n gba iwe eri ibi?",
+      "Báwo ni a ṣe ń gba ìwé-ẹ̀rí ìbí?"
+    ],
+    "answer_text": "Ní ilé-iṣẹ́: mú ọmọ náà (tàbí ìwé ìkéde ìbí ilé-ìwòsàn) lọ sí ilé-iṣẹ́ ìforúkọsílẹ̀ NPC tó sún mọ́ ọ, tó sábà máa ń wà ní ilé-iṣẹ́ ìjọba ìbílẹ̀, ilé-ìwòsàn ìpìlẹ̀ tàbí ilé-ìwòsàn gbogbogbò. Lórí ayélujára: òbí tó ní NIN lè ṣí àkáǹtì lórí birthreg-selfservice.nationalpopulation.gov.ng, ṣe ìjẹ́rìí ojú, tẹ àlàyé ọmọ àti àwọn òbí, fi ránṣẹ́, tọpa rẹ̀, kí o sì gba ìwé-ẹ̀rí nígbà tí a bá fọwọ́ sí i (a lè gbà á lẹ́ẹ̀kan ṣoṣo). Ìforúkọsílẹ̀ ọmọ tí kò tíì pé ọdún márùn-ún jẹ́ ọ̀fẹ́ ní àwọn ilé-iṣẹ́ NPC. Òfin retí pé kí a forúkọ ìbí sílẹ̀ láàárín ọjọ́ 60."
+  },
+  {
+    "id": "gen-what-can-you-do",
+    "document": "about-assistant",
+    "section_title": "Ààlà",
+    "question_text": "Kí ni o lè ràn mí lọ́wọ́ nínú rẹ̀?",
+    "alt_questions": [
+      "Ẹ n lẹ́",
+      "Ẹ káàárọ̀",
+      "Ẹ káàsán",
+      "Kí ni Tambaya NG?",
+      "Ìrànlọ́wọ́"
+    ],
+    "answer_text": "Tambaya NG ń dáhùn ìbéèrè nípa iṣẹ́ ìjọba mẹ́rin ní Nàìjíríà pẹ̀lú ìwífún tí a ti jẹ́rìí sí láti ọ̀dọ̀ àwọn àjọ tó ní í ṣe: Nọ́mbà Ìdánimọ̀ Orílẹ̀-èdè (NIMC), pásípọ̀ọ̀tù (Àjọ Ìṣíkiri Nàìjíríà), ìwé-àṣẹ awakọ̀ (FRSC) àti ìforúkọsílẹ̀ ìbí (Àjọ Olùgbé Orílẹ̀-èdè). O lè béèrè ní Yorùbá, Gẹ̀ẹ́sì, Hausa, Igbo tàbí Pidgin nípa ohun tí a nílò, ìwé, ìgbésẹ̀, owó àti ibi tí o lè lọ; ìdáhùn kọ̀ọ̀kan ń fi orísun ìjọba hàn. Mo ń fún ní ìwífún àti ìtọ́sọ́nà nìkan; n kò lè forúkọ rẹ sílẹ̀, fún ọ ní ìwé, gba owó tàbí wo àkọsílẹ̀ rẹ."
+  },
+  {
+    "id": "nin-documents",
+    "document": "nimc-nin-overview",
+    "section_title": "Àwọn ìwé tí a nílò",
+    "question_text": "Àwọn ìwé wo ni mo nílò fún ìforúkọsílẹ̀ NIN?",
+    "alt_questions": [
+      "Kini mo nilo fun iforukosile NIN?",
+      "Àwọn ìwé wo ni mo nílò fún NIN?",
+      "Ṣé mo nílò ìwé-ẹ̀rí ìbí fún NIN?",
+      "Kí ni kí n mú lọ sí ilé-iṣẹ́ NIMC?"
+    ],
+    "answer_text": "O nílò ìwé KAN ṣoṣo tí a tẹ́wọ́gbà fún ìforúkọsílẹ̀ NIN. Àwọn ìwé tí a tẹ́wọ́gbà ni: ìwé-ẹ̀rí ìbí tàbí ìkéde ọjọ́-orí; káàdì ìdìbò (ìgbà díẹ̀ tàbí títí láé); pásípọ̀ọ̀tù Nàìjíríà; ìwé-àṣẹ awakọ̀; ìwé-ẹ̀rí ìpínlẹ̀ (certificate of origin); lẹ́tà ìjẹ́rìí láti ọ̀dọ̀ ọba ìbílẹ̀ tàbí olórí ẹ̀sìn tí a mọ̀; káàdì òṣìṣẹ́ ìjọba tàbí ilé-iṣẹ́ tí a forúkọ sílẹ̀; káàdì ilé-ẹ̀kọ́; ìwé-ẹ̀rí owó-orí; káàdì NHIS; tàbí ìwé ìṣíkiri tó wúlò fún àwọn àjèjì tó ń gbé ní Nàìjíríà lọ́nà òfin. Mú ìwé gidi lọ sí ilé-iṣẹ́ ìforúkọsílẹ̀."
+  },
+  {
+    "id": "nin-retrieve",
+    "document": "nimc-self-service",
+    "section_title": "Gbígbà NIN rẹ padà",
+    "question_text": "Báwo ni mo ṣe lè wo tàbí gba NIN mi padà?",
+    "alt_questions": [
+      "Mo gbàgbé NIN mi",
+      "Báwo ni mo ṣe lè wo NIN mi lórí fóònù?",
+      "Kí ni kóòdù láti rí NIN mi?",
+      "Bawo ni mo se le ri NIN mi?"
+    ],
+    "answer_text": "Láti gba NIN rẹ padà, tẹ *346# láti nọ́mbà fóònù tí o lò nígbà ìforúkọsílẹ̀, yan 'NIN Retrieval' kí o sì tẹ̀lé ìtọ́ni; NIN rẹ yóò hàn lórí ìbòjú. Ilé-iṣẹ́ fóònù máa ń gba owó káàdì díẹ̀ (bíi ₦20) fún èyí. O tún lè rí NIN rẹ nínú ohun èlò NINAuth lẹ́yìn tí o bá jẹ́rìí sí ẹni tí o jẹ́. Tí nọ́mbà fóònù tí o forúkọ sílẹ̀ bá ti sọnù, o ní láti kọ́kọ́ ṣe àtúnṣe nọ́mbà fóònù rẹ nípasẹ̀ ètò ìṣàtúnṣe ara-ẹni NIMC."
+  },
+  {
+    "id": "nin-modify-fees",
+    "document": "nimc-fee-schedule-2025",
+    "section_title": "Owó àtúnṣe",
+    "question_text": "Èló ni owó àtúnṣe àlàyé NIN mi?",
+    "alt_questions": [
+      "Èló ni owó àtúnṣe NIN?",
+      "Elo ni lati yi ọjọ ibi pada lori NIN?",
+      "Èló ni láti yí orúkọ padà lórí NIN?",
+      "Owó àtúnṣe nọ́mbà fóònù NIN"
+    ],
+    "answer_text": "Gẹ́gẹ́ bí ìwé-owó NIMC tí a tẹ̀ jáde ní oṣù May 2025: àtúnṣe ọjọ́-ìbí jẹ́ ₦28,574; ìyípadà orúkọ, àdírẹ́sì, nọ́mbà fóònù tàbí àlàyé mìíràn jẹ́ ₦2,000 fún ìbéèrè kọ̀ọ̀kan; àtúntẹ̀ ìwé NIN déédéé jẹ́ ₦600. Fún àwọn ọmọ Nàìjíríà ní òkè-òkun, àtúnṣe ọjọ́-ìbí jẹ́ $55 (Áfíríkà) tàbí $60 (níta Áfíríkà), àwọn àtúnṣe mìíràn jẹ́ $10. A ń san owó lórí ayélujára nípasẹ̀ ojú-òpó ìṣàtúnṣe ara-ẹni nìkan; iye tí ó hàn lórí ojú-òpó ìjọba nígbà ìsanwó ni ó wúlò."
+  },
+  {
+    "id": "pp-minor",
+    "document": "nis-passports",
+    "section_title": "Pásípọ̀ọ̀tù fún àwọn ọmọdé",
+    "question_text": "Báwo ni mo ṣe lè gba pásípọ̀ọ̀tù fún ọmọ mi?",
+    "alt_questions": [
+      "Pasipootu fun omo kekere",
+      "Àwọn ìwé fún pásípọ̀ọ̀tù ọmọdé",
+      "Ṣé ọmọ ọdún 10 lè gba pásípọ̀ọ̀tù?",
+      "Pásípọ̀ọ̀tù fún ọmọ ọwọ́"
+    ],
+    "answer_text": "Fún ọmọdé (tí kò tíì pé ọdún 18): kún ìbéèrè lórí ayélujára; gbé ìwé-ẹ̀rí ìbí NPC ọmọ náà sókè; pèsè ẹ̀rí pé àwọn òbí jẹ́ ọmọ Nàìjíríà (bíi ojú-ewé àlàyé pásípọ̀ọ̀tù òbí); lẹ́tà ìgbàláàyè láti ọ̀dọ̀ òbí; fọ́tò ọmọ náà kan tí òbí tó fọwọ́ sí i buwọ́ lù; àti ìwé ìjẹ́rìí àti ẹ̀rí ìsanwó. Ọmọ náà gbọ́dọ̀ wá sí ọ́fíìsì pásípọ̀ọ̀tù pẹ̀lú òbí fún gbígbà ìka àti fọ́tò. Àwọn ọmọ tí a gbà ṣọmọ tún nílò àṣẹ ilé-ẹjọ́ àti ìfọwọ́sí Ilé-iṣẹ́ Ìjọba Ìpínlẹ̀ fún Ọ̀ràn Obìnrin."
+  },
+  {
+    "id": "pp-renewal",
+    "document": "nis-passports",
+    "section_title": "Àtúnṣe pásípọ̀ọ̀tù",
+    "question_text": "Báwo ni mo ṣe lè tún pásípọ̀ọ̀tù mi ṣe?",
+    "alt_questions": [
+      "Pásípọ̀ọ̀tù mi ti pari, kí ni kí n ṣe?",
+      "Pasipootu mi ti pari",
+      "Ìlànà àtúnṣe pásípọ̀ọ̀tù",
+      "Ṣé mo lè tún pásípọ̀ọ̀tù mi ṣe lórí ayélujára?"
+    ],
+    "answer_text": "Àtúnṣe pásípọ̀ọ̀tù ń tẹ̀lé ìlànà kan náà pẹ̀lú ìbéèrè tuntun lórí ayélujára: 1) Béèrè ní passport.immigration.gov.ng, yan àtúnṣe, kí o sì gbé ìwé-ẹ̀rí ìbí tàbí ìkéde ọjọ́-orí, lẹ́tà ìpínlẹ̀ àti ojú-ewé àlàyé pásípọ̀ọ̀tù rẹ lọ́wọ́lọ́wọ́ sókè. 2) Sanwó lórí ayélujára kí o sì yan ọjọ́ ìpàdé. 3) Mú ìwé pásípọ̀ọ̀tù àtijọ́ lọ sí ọ́fíìsì pásípọ̀ọ̀tù ní ọjọ́ ìpàdé fún fọ́tò àti gbígbà ìka. Àkíyèsí: a ń ka pásípọ̀ọ̀tù sí èyí tó ti parí fún ìrìn-àjò tí ó bá ku oṣù mẹ́fà, nítorí náà tún un ṣe ní kùtùkùtù. Owó náà jẹ́ bákan náà pẹ̀lú ìwé tuntun."
+  },
+  {
+    "id": "dl-reissue",
+    "document": "frsc-dl-faq",
+    "section_title": "Ìwé-àṣẹ tó sọnù tàbí tí a jí",
+    "question_text": "Kí ni kí n ṣe tí ìwé-àṣẹ awakọ̀ mi bá sọnù tàbí tí a bá jí i?",
+    "alt_questions": [
+      "Ìwé-àṣẹ awakọ̀ mi ti sọnù",
+      "Mo pàdánù lásìnsì awakọ̀ mi",
+      "A jí ìwé-àṣẹ awakọ̀ mi",
+      "Lasinsi awako mi ti sonu"
+    ],
+    "answer_text": "Tí ìwé-àṣẹ náà bá ṣì wúlò, lọ sí 'DL Application' > 'Re-Issue of Driver's Licence' ní nigeriadriverslicence.frsc.gov.ng, tẹ nọ́mbà ìwé-àṣẹ rẹ, sanwó kí o sì lọ sí ilé-iṣẹ́ gbígbà ìka. Ìròyìn ọlọ́pàá dára fún ìwé-àṣẹ tí a jí. Tí ìwé-àṣẹ tó sọnù bá ti parí, lo àṣàyàn Renewal dípò rẹ̀. Ìgbésókè (fífi kíláàsì kun tàbí yíyọ kúrò) ni a tún ń ṣe nípasẹ̀ ìlànà àtúnṣe tàbí àtúnfún pẹ̀lú nọ́mbà ìwé-àṣẹ rẹ; fífi kíláàsì kun ni a ń gba owó rẹ̀ lọ́tọ̀."
+  },
+  {
+    "id": "dl-renewal",
+    "document": "frsc-dl-faq",
+    "section_title": "Àtúnṣe",
+    "question_text": "Báwo ni mo ṣe lè tún ìwé-àṣẹ awakọ̀ mi ṣe?",
+    "alt_questions": [
+      "Lasinsi awako mi ti pari",
+      "Ìwé-àṣẹ awakọ̀ mi ti parí",
+      "Àtúnṣe ìwé-àṣẹ awakọ̀",
+      "Bawo ni mo se le tun lasinsi awako mi se?"
+    ],
+    "answer_text": "Lọ sí nigeriadriverslicence.frsc.gov.ng, ṣí 'DL Application' kí o yan 'Renewal of Driver's Licence'. Tẹ nọ́mbà ìwé-àṣẹ rẹ lọ́wọ́lọ́wọ́, jẹ́rìí sí àlàyé rẹ, yan ọdún 3 tàbí 5 kí o sì sanwó lórí ayélujára. Lẹ́yìn náà lọ sí ilé-iṣẹ́ gbígbà ìka fún gbígbà ìka tuntun (kò sí ìdánilẹ́kọ̀ọ́ ilé-ẹ̀kọ́ awakọ̀ tuntun). Tí ìwé-àṣẹ rẹ bá ti parí o gbọ́dọ̀ lo Renewal; tí ó bá ṣì wúlò ṣùgbọ́n tó sọnù tàbí bàjẹ́, lo Re-Issue. Ìwé-àṣẹ tí a tún ṣe wúlò títí di ọjọ́ ìparí tuntun rẹ̀."
+  },
+  {
+    "id": "br-death",
+    "document": "npc-civil-registration",
+    "section_title": "Ìforúkọsílẹ̀ ikú",
+    "question_text": "Báwo ni mo ṣe lè forúkọ ikú sílẹ̀ kí n sì gba ìwé-ẹ̀rí ikú?",
+    "alt_questions": [
+      "Iwe eri iku",
+      "Ìwé-ẹ̀rí ikú ní Nàìjíríà",
+      "Níbo ni mo ti lè forúkọ ikú bàbá mi sílẹ̀?",
+      "Bawo ni a se n gba iwe eri iku?"
+    ],
+    "answer_text": "A ń forúkọ ikú sílẹ̀ ní Àjọ Olùgbé Orílẹ̀-èdè (NPC). Mú ìwé-ẹ̀rí ìṣègùn nípa ohun tó fa ikú láti ilé-ìwòsàn (tàbí ọ̀rọ̀ ẹlẹ́rìí fún ikú ní ilé) àti ìdánimọ̀ olóògbé lọ sí ilé-iṣẹ́ ìforúkọsílẹ̀ NPC tó sún mọ́ ọ, tàbí lo iṣẹ́ ìforúkọsílẹ̀ ikú lórí ojú-òpó NPC, níbi tí a ti ń fún ní ìwé-ẹ̀rí lọ́nà dìjítà níbi tó bá yẹ. A nílò ìwé-ẹ̀rí ikú fún ìyọ̀ǹda ìsìnkú, ogún, ìdánilójú àti ẹ̀tọ́ owó-ìfẹ̀yìntì."
+  },
+  {
+    "id": "gen-boundary",
+    "document": "about-assistant",
+    "section_title": "Ààlà",
+    "question_text": "Ṣé o lè béèrè fún pásípọ̀ọ̀tù tàbí NIN fún mi?",
+    "alt_questions": [
+      "Ṣé o lè ṣàyẹ̀wò ipò NIN mi?",
+      "Se o le ba mi forukọ silẹ?",
+      "Ṣé ojú-òpó ìjọba ni ọ́?",
+      "Ṣé o ń ṣe ìbéèrè?"
+    ],
+    "answer_text": "Rárá. Tambaya NG jẹ́ olùrànlọ́wọ́ ìwífún àti ìtọ́sọ́nà, kì í ṣe ojú-òpó ìjọba. Kò ṣe ìṣòwò, kò wọ inú àkójọ ìjọba kankan, kò jẹ́rìí sí ẹni, kò san owó tàbí fọwọ́ sí ìbéèrè, kò sì béèrè NIN rẹ, nọ́mbà pásípọ̀ọ̀tù tàbí àlàyé ara-ẹni mìíràn láé. Fún ìbéèrè tàbí ìṣòwò gidi, lo ojú-òpó ìjọba: nimc.gov.ng àti *346# fún NIN, passport.immigration.gov.ng fún pásípọ̀ọ̀tù, nigeriadriverslicence.frsc.gov.ng fún ìwé-àṣẹ awakọ̀, àti àwọn ilé-iṣẹ́ NPC tàbí ojú-òpó eCRVS fún ìforúkọsílẹ̀ ìbí."
+  },
+  {
+    "id": "br-cost",
+    "document": "npc-vitalreg-2026",
+    "section_title": "Iye owó",
+    "question_text": "Èló ni ìforúkọsílẹ̀ ìbí?",
+    "alt_questions": [
+      "Èló ni ìwé-ẹ̀rí ìbí?",
+      "Elo ni iwe eri ibi?",
+      "Ṣé ìforúkọsílẹ̀ ìbí jẹ́ ọ̀fẹ́?",
+      "Se iforukosile ibi je ofe?",
+      "Ṣé mo ní láti san owó láti forúkọ ìbí ọmọ mi sílẹ̀?"
+    ],
+    "answer_text": "Ìforúkọsílẹ̀ ìbí fún àwọn ọmọ tí kò tíì pé ọdún márùn-ún jẹ́ ọ̀fẹ́ ní àwọn ilé-iṣẹ́ ìforúkọsílẹ̀ NPC. Àwọn àṣàyàn kan lórí ayélujára, ìforúkọsílẹ̀ tó pẹ́ àti iṣẹ́ ìjẹ́rìí ìbí ní owó ìjọba, tí a ń fi hàn lórí ojú-òpó NPC kí o tó sanwó; san owó nípasẹ̀ ọ̀nà ìsanwó ìjọba ti ojú-òpó nìkan. Tí ẹnikẹ́ni ní ilé-iṣẹ́ bá béèrè owó láti forúkọ ọmọ tí kò tíì pé ọdún márùn-ún sílẹ̀, béèrè fún ìwé-ẹ̀rí ìsanwó ìjọba tàbí kí o ròyìn rẹ̀ fún NPC."
+  },
+  {
+    "id": "nin-slip",
+    "document": "nimc-fee-schedule-2025",
+    "section_title": "Ìwé NIN (slip)",
+    "question_text": "Báwo ni mo ṣe lè gba tàbí tún ìwé NIN mi tẹ̀?",
+    "alt_questions": [
+      "Bawo ni mo se le gba NIN slip?",
+      "Ìwé NIN mi ti sọnù",
+      "Èló ni àtúntẹ̀ ìwé NIN?",
+      "Báwo ni mo ṣe lè tẹ ìwé NIN mi jáde?"
+    ],
+    "answer_text": "A ń fún ni ní ìwé NIN àkọ́kọ́ lọ́fẹ̀ẹ́ nígbà ìforúkọsílẹ̀. Àtúntẹ̀ ìwé NIN déédéé jẹ́ ₦600 lábẹ́ ìwé-owó NIMC ti oṣù May 2025 (₦3,500 fún ìwé VIP). O lè gba ìwé NIN dìjítà tuntun nípasẹ̀ ojú-òpó ìṣàtúnṣe ara-ẹni NIMC tàbí ohun èlò NINAuth kí o sì tẹ̀ ẹ́ jáde fúnra rẹ; ọ̀pọ̀ ilé-iṣẹ́ ìforúkọsílẹ̀ àti àwọn aṣojú tí a fún ní ìwé-àṣẹ tún lè tẹ̀ ẹ́ fún ọ fún owó ìjọba. Pa ìwé náà tàbí ẹ̀dà dìjítà rẹ̀ mọ́ nítorí ọ̀pọ̀ iṣẹ́ ń béèrè rẹ̀."
+  },
+  {
+    "id": "pp-lost",
+    "document": "nis-passports",
+    "section_title": "Pásípọ̀ọ̀tù tó sọnù",
+    "question_text": "Kí ni kí n ṣe tí pásípọ̀ọ̀tù mi bá sọnù tàbí tí wọ́n jí i?",
+    "alt_questions": [
+      "Pásípọ̀ọ̀tù mi sọnù",
+      "Wọ́n jí pásípọ̀ọ̀tù mi",
+      "Passport mi sonu",
+      "Báwo ni mo ṣe lè rọ́pò pásípọ̀ọ̀tù tó sọnù?"
+    ],
+    "answer_text": "Tí pásípọ̀ọ̀tù Nàìjíríà rẹ bá sọnù tàbí tí wọ́n jí i: 1) Fi tó ọlọ́pàá létí kíákíá kí o sì gba ìwé ìfisùn ọlọ́pàá tí ó ní nọ́mbà pásípọ̀ọ̀tù rẹ. 2) Wá ẹ̀dà ojú-ìwé data pásípọ̀ọ̀tù, tàbí ó kéré tán nọ́mbà pásípọ̀ọ̀tù àti ọjọ́ tí wọ́n fún ọ. 3) Kọ lẹ́tà ìbéèrè sí Comptroller General of Immigration (tàbí béèrè lórí ayélujára ní passport.immigration.gov.ng), pẹ̀lú ìwé ọlọ́pàá, ẹ̀dà ojú-ìwé data àti fọ́tò pásípọ̀ọ̀tù méjì, kí o sì san owó ìjọba lórí ojú-òpó náà. 4) Olú-ilé-iṣẹ́ NIS ní Abuja yóò ṣàyẹ̀wò rẹ̀ kí wọ́n tó fọwọ́ sí ìwé tuntun, lẹ́yìn náà wọn yóò pè ọ́ fún gbígba ìka àti fọ́tò fúnra rẹ. Tí o bá wà lókè òkun tí o sì nílò láti padà sí Nàìjíríà kíákíá, ilé-iṣẹ́ aṣojú Nàìjíríà lè fún ọ ní Emergency Travel Certificate. Pa ìwé ọlọ́pàá mọ́, nítorí wọ́n ti sàmì sí nọ́mbà pásípọ̀ọ̀tù àtijọ́."
+  },
+  {
+    "id": "gen-misuse",
+    "document": "about-assistant",
+    "section_title": "Ohun tí n kò lè ràn lọ́wọ́",
+    "question_text": "Ṣé o lè ràn mí lọ́wọ́ láti gba NIN, pásípọ̀ọ̀tù tàbí lásìnsì ayédèrú?",
+    "alt_questions": [
+      "Báwo ni mo ṣe lè gba lásìnsì láìṣe ìdánwò?",
+      "Bá mi ṣe ìwé-ẹ̀rí ìbí ayédèrú",
+      "Ṣé mo lè lo NIN ẹlòmíràn?"
+    ],
+    "answer_text": "N kò lè ràn ọ́ lọ́wọ́ nínú ìyẹn. Ṣíṣe tàbí rírà ìwé ayédèrú, gbígba pásípọ̀ọ̀tù tàbí lásìnsì láìsí gbígba ìka tàbí ìdánwò, lílo NIN ẹlòmíràn, tàbí yíyí àkọsílẹ̀ padà pẹ̀lú irọ́ jẹ́ ìwà ọ̀daràn ní Nàìjíríà, ó sì lè yọrí sí ẹjọ́. Ọ̀nà tó tọ́ ni: ìforúkọsílẹ̀ NIN jẹ́ ọ̀fẹ́ ní àwọn ibùdó NIMC (nimc.gov.ng); pásípọ̀ọ̀tù gba passport.immigration.gov.ng pẹ̀lú gbígba ìka fúnra rẹ; ìwé-àṣẹ awakọ̀ nílò ilé-ẹ̀kọ́ awakọ̀ àti ìdánwò nípasẹ̀ nigeriadriverslicence.frsc.gov.ng; àkọsílẹ̀ ìbí sì gba NPC. Tí àṣìṣe tòótọ́ bá wà nínú àkọsílẹ̀ rẹ, lo ọ̀nà àtúnṣe ti ìjọba. Bi mí nípa ìgbésẹ̀ èyíkéyìí, màá ṣàlàyé rẹ̀."
+  }
+]

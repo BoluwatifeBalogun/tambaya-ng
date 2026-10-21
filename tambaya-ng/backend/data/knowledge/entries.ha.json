@@ -1,0 +1,738 @@
+[
+  {
+    "id": "nin-what-is",
+    "document": "nimc-nin-overview",
+    "section_title": "Menene NIN",
+    "question_text": "Menene Lambar Shaidar Ƙasa (NIN)?",
+    "alt_questions": [
+      "Menene NIN?",
+      "Bayyana mini NIN",
+      "Me NIMC ke yi?",
+      "Me ya sa nake buƙatar NIN?",
+      "Me ake nufi da NIN?",
+      "Me ya sa NIN yake da muhimmanci?",
+      "Menene aikin NIMC?",
+      "Bayani game da NIN",
+      "Menene lambar NIN?"
+    ],
+    "answer_text": "Lambar Shaidar Ƙasa (NIN) lamba ce ta musamman mai lambobi 11 da Hukumar Kula da Shaidar Ƙasa (NIMC) ke bai wa kowane ɗan ƙasa da mazaunin Najeriya mai izini bayan ya yi rajista a Rumbun Bayanan Shaidar Ƙasa. Ana ba da ita sau ɗaya kuma tana tare da kai har abada. Ana amfani da NIN wajen tabbatar da wanda kake don ayyuka kamar rajistar layin waya (SIM), neman fasfo, neman lasisin tuƙi, haɗa BVN na banki, rajistar JAMB da shirye-shiryen gwamnati."
+  },
+  {
+    "id": "nin-eligibility",
+    "document": "nimc-nin-overview",
+    "section_title": "Wanda ya cancanta",
+    "question_text": "Wa ya cancanci yin rajistar NIN?",
+    "alt_questions": [
+      "Yaro zai iya samun NIN?",
+      "Baƙi za su iya samun NIN?",
+      "Akwai iyakar shekaru ga NIN?",
+      "Wa zai iya samun NIN?",
+      "Baƙo zai iya yin rajistar NIN?",
+      "Wane shekaru ake buƙata don NIN?"
+    ],
+    "answer_text": "Dukkan 'yan ƙasar Najeriya da mazauna masu izini sun cancanci yin rajistar NIN tun daga haihuwa. Ana iya yi wa yara da ƙananan yara rajista; yaro da bai kai shekara 16 ba ana yi masa rajista tare da iyaye ko mai kula da shi, kuma ana haɗa NIN ɗin iyayen da bayanan yaron. Baƙi masu izinin zama (waɗanda ke da takardun shige da fice masu inganci) suna rajista da takardunsu na shige da fice."
+  },
+  {
+    "id": "nin-enrol-steps",
+    "document": "nimc-nin-overview",
+    "section_title": "Yadda ake rajista",
+    "question_text": "Ta yaya zan yi rajistar NIN?",
+    "alt_questions": [
+      "Yadda ake yin rajistar NIN",
+      "Matakan samun NIN",
+      "Ina zan sami NIN?",
+      "Hanyar yin NIN",
+      "Ina zan je don yin NIN?",
+      "Yadda ake samun NIN",
+      "Matakan yin rajistar NIN",
+      "Ba ni da NIN, ta yaya zan fara?",
+      "Yadda ake yin NIN a karon farko",
+      "Ina so in yi rajistar NIN"
+    ],
+    "answer_text": "Don yin rajistar NIN: 1) Je cibiyar rajista ta NIMC ko wakilin da NIMC ta ba lasisi (Front End Partner) kusa da kai. 2) Cike fom ɗin rajista (za ka iya fara cikewa a yanar gizo a shafin NIMC don rage lokaci). 3) Nuna takarda ɗaya da aka amince da ita (misali takardar shaidar haihuwa, katin zaɓe, lasisin tuƙi, fasfo ko takardar shelar shekaru). 4) Za a ɗauki hotunan yatsunka goma, hoton fuska da sa hannunka. 5) Za a ba ka takardar tabbatarwa; za a fitar da NIN ɗinka bayan an sarrafa (yawanci cikin 'yan kwanaki) kuma za ka iya duba ta ta hanyar kiran *346# daga lambar wayar da ka yi rajista da ita. Rajistar kyauta ce."
+  },
+  {
+    "id": "nin-documents",
+    "document": "nimc-nin-overview",
+    "section_title": "Takardun da ake buƙata",
+    "question_text": "Wadanne takardu nake buƙata don rajistar NIN?",
+    "alt_questions": [
+      "Abubuwan da ake buƙata na NIN",
+      "Wadanne takardu ake karɓa don rajistar NIN?",
+      "Ina buƙatar takardar haihuwa don NIN?",
+      "Wace takarda zan kawo don rajistar NIN?",
+      "Ana buƙatar takardar haihuwa don NIN?",
+      "Abubuwan da ake buƙata don NIN",
+      "Me zan kawo cibiyar NIMC?",
+      "Takardun da ake karɓa don rajistar NIN",
+      "Katin zaɓe ya isa don NIN?",
+      "Wadanne takardu ake bukata don NIN?",
+      "Wadanne takardu ake buƙata don rajistar NIN?"
+    ],
+    "answer_text": "Kana buƙatar takarda ɗAYA kawai da aka amince da ita don rajistar NIN. Takardun da ake karɓa sun haɗa da: takardar shaidar haihuwa ko shelar shekaru; katin zaɓe (na ɗan lokaci ko na dindindin); fasfon Najeriya; lasisin tuƙi; takardar shaidar asali (certificate of origin); wasiƙar tabbatarwa daga sarki ko shugaban addini da aka sani; katin ma'aikata na gwamnati ko kamfani mai rajista; katin makaranta; takardar biyan haraji; katin NHIS; ko takardun shige da fice masu inganci ga baƙi mazauna. Kawo ainihin takardar cibiyar rajista."
+  },
+  {
+    "id": "nin-cost",
+    "document": "nimc-fee-schedule-2025",
+    "section_title": "Kuɗin rajista",
+    "question_text": "Nawa ne kuɗin rajistar NIN?",
+    "alt_questions": [
+      "NIN kyauta ne?",
+      "Dole ne in biya don rajistar NIN?",
+      "Kuɗin yin NIN",
+      "Nawa ne kuɗin NIN?",
+      "Ana biyan kuɗi don rajistar NIN?",
+      "Kuɗin yin NIN nawa ne?",
+      "Me ya sa wakili yake karɓar kuɗi don NIN?",
+      "Rajistar NIN kyauta ce?",
+      "Ana karɓar kuɗi don NIN?"
+    ],
+    "answer_text": "Rajistar NIN da ba da takardar NIN ta farko KYAUTA ne a cibiyoyin NIMC da wakilan da aka ba lasisi. NIMC ta gargaɗi jama'a kada su biya kowa don rajista ta yau da kullum. Zaɓin da ake biya shi ne na musamman (VIP) kawai, da ake yi a ɗakunan jiran da aka ba lasisi da cibiyoyin visa, wanda jadawalin kuɗin NIMC na Mayu 2025 ya sanya a ₦20,000. Ka kai ƙarar duk wanda ya nemi kuɗi don rajista ta yau da kullum ga NIMC."
+  },
+  {
+    "id": "nin-retrieve",
+    "document": "nimc-self-service",
+    "section_title": "Duba NIN ɗinka",
+    "question_text": "Ta yaya zan duba ko in dawo da NIN ɗina?",
+    "alt_questions": [
+      "Na manta NIN ɗina",
+      "Yadda zan gano NIN da wayata",
+      "Menene *346#?",
+      "Duba NIN ta USSD",
+      "Ta yaya zan duba NIN ɗina?",
+      "Wane lamba zan kira don ganin NIN?",
+      "Yadda ake samun NIN ta waya",
+      "Yadda zan gano lambar NIN ɗina",
+      "Na manta NIN ɗina, yaya zan duba?"
+    ],
+    "answer_text": "Don dawo da NIN ɗinka, kira *346# daga lambar wayar da ka yi amfani da ita lokacin rajista, zaɓi 'NIN Retrieval' ka bi umarnin; za a nuna NIN ɗinka a allo. Kamfanin waya yana cajin ɗan kuɗin kati (kusan ₦20) don wannan. Hakanan za ka iya ganin NIN ɗinka a manhajar NINAuth bayan ka tabbatar da kanka. Idan lambar wayar da ka yi rajista da ita ta ɓace, sai ka fara sabunta lambar wayarka ta hanyar gyaran kai (self-service) na NIMC."
+  },
+  {
+    "id": "nin-slip",
+    "document": "nimc-fee-schedule-2025",
+    "section_title": "Takardar NIN (slip)",
+    "question_text": "Ta yaya zan samu ko in sake buga takardar NIN ɗina?",
+    "alt_questions": [
+      "Kuɗin sake fitar da takardar NIN",
+      "Takardar NIN ta ɓace",
+      "Sabuwar takardar NIN",
+      "Buga takardar NIN",
+      "Ta yaya zan buga takardar NIN?",
+      "Nawa ne kuɗin sake buga takardar NIN?",
+      "Yadda ake samun takardar NIN",
+      "Sake fitar da takardar NIN"
+    ],
+    "answer_text": "Ana ba da takardar NIN ta farko kyauta a rajista. Sake fitar da takardar NIN ta yau da kullum yana kashe ₦600 bisa jadawalin kuɗin NIMC na Mayu 2025 (₦3,500 ga takardar VIP). Za ka iya samun sabuwar takardar NIN ta dijital ta shafin gyaran kai na NIMC ko manhajar NINAuth ka buga da kanka; cibiyoyin rajista da wakilan da aka ba lasisi ma za su iya buga maka a kan kuɗin hukuma. Ka adana takardar ko kwafinta na dijital domin ayyuka da yawa suna neman ta."
+  },
+  {
+    "id": "nin-modify-how",
+    "document": "nimc-self-service",
+    "section_title": "Gyara bayanan NIN",
+    "question_text": "Ta yaya zan gyara ko in canza bayanan NIN ɗina (suna, ranar haihuwa, adireshi, waya)?",
+    "alt_questions": [
+      "Gyaran NIN",
+      "Canza suna a NIN",
+      "Gyara ranar haihuwa a NIN",
+      "Sabunta lambar waya a NIN",
+      "Shafin gyaran kai na NIMC",
+      "Ta yaya zan gyara sunana a NIN?",
+      "Yadda ake canza lambar waya a NIN",
+      "Zan iya gyara NIN a yanar gizo?",
+      "Ina zan gyara adireshina a NIN?",
+      "Hanyar gyaran NIN",
+      "Yadda ake gyara bayanan NIN",
+      "Ta yaya zan canza ranar haihuwa a NIN?"
+    ],
+    "answer_text": "Ana gyara bayanan NIN ta shafin gyaran kai na NIMC (selfservicemodification.nimc.gov.ng) ko ta kiran *346# ka zaɓi 'NIN Modification'; NIMC ta sanar a 2024 cewa ba a ƙara yin gyare-gyare na yau da kullum a cibiyoyin rajista ba. Matakai a shafin: 1) Yi rajista ko shiga da NIN ɗinka. 2) Zaɓi abin da za ka canza (suna, ranar haihuwa, adireshi, lambar waya). 3) Biya kuɗin hukuma a yanar gizo. 4) Loda takardun shaida (don ranar haihuwa, shigar da lambar takardar haihuwa ko tabbatarwa ta NPC; ranar za ta cika da kanta). 5) Duba, ka yi alama a tabbatarwa ka aika. 6) Ka adana takardar ciniki; za a aiko maka da sabuwar takardar NIN ta imel kuma za ka iya bugawa daga shafinka. Ƙananan canje-canje yawanci suna ɗaukar kwana ɗaya ko biyu; canjin suna da ranar haihuwa na iya ɗaukar har makonni biyu."
+  },
+  {
+    "id": "nin-modify-fees",
+    "document": "nimc-fee-schedule-2025",
+    "section_title": "Kuɗin gyara",
+    "question_text": "Nawa ne kuɗin gyara bayanan NIN ɗina?",
+    "alt_questions": [
+      "Kuɗin gyaran ranar haihuwa a NIN",
+      "Kuɗin canza suna a NIN",
+      "Farashin gyaran NIN",
+      "Nawa ne kuɗin gyaran NIN?",
+      "Kuɗin gyara ranar haihuwa a NIN",
+      "Nawa ake biya don canza suna a NIN?",
+      "Kuɗin canza lambar waya a NIN",
+      "Nawa ne gyaran NIN?",
+      "NIN modification nawa ne?",
+      "Nawa ne NIN modification?"
+    ],
+    "answer_text": "Bisa jadawalin kuɗin NIMC da aka buga a Mayu 2025: gyaran ranar haihuwa ₦28,574; canjin suna, adireshi, lambar waya ko wasu bayanai ₦2,000 kowane buƙata; sake fitar da takardar NIN ta yau da kullum ₦600. Ga 'yan Najeriya a ƙasashen waje, gyaran ranar haihuwa $55 (Afirka) ko $60 (wajen Afirka), sauran gyare-gyare $10. Ana biyan kuɗi a yanar gizo ta shafin gyaran kai kawai; adadin da aka nuna a shafin hukuma lokacin biya shi ne ya dace."
+  },
+  {
+    "id": "nin-modify-docs",
+    "document": "nimc-self-service",
+    "section_title": "Takardun gyara",
+    "question_text": "Wadanne takardu nake buƙata don canza suna ko ranar haihuwa a NIN ɗina?",
+    "alt_questions": [
+      "Takardun gyaran NIN",
+      "Me nake buƙata don canza ranar haihuwa ta NIN?",
+      "Takardun gyaran suna a NIN",
+      "Wadanne takardu nake buƙata don gyara ranar haihuwa a NIN?",
+      "Me nake buƙata don canza adireshi a NIN?",
+      "Takardun da ake buƙata don gyaran NIN"
+    ],
+    "answer_text": "Ranar haihuwa: takardar shaidar haihuwa ta NPC ta dijital (ga waɗanda aka haifa daga 1992) ko takardar tabbatar da haihuwa ta NPC (ga waɗanda aka haifa kafin haka); idan ba ka da ɗaya daga cikinsu, fara yin tabbatar da haihuwa a yanar gizo da Hukumar Ƙidaya ta Ƙasa (NPC). Suna: rantsuwar kotu (affidavit), sanarwar jarida game da canjin, takardar aure ga canje-canje masu alaƙa da aure, da wata shaidar gwamnati. Adireshi: kuɗin wuta ko ruwa na kwanan nan, yarjejeniyar haya ko wasiƙar tabbatarwa. Lambar waya: samun damar sabuwar lambar don tabbatarwa; ana iya buƙatar rahoton 'yan sanda idan wayar da aka haɗa ta ɓace ko an sace ta."
+  },
+  {
+    "id": "nin-uses",
+    "document": "nimc-nin-overview",
+    "section_title": "Inda ake buƙatar NIN",
+    "question_text": "A ina ake buƙatar NIN ko ya zama dole?",
+    "alt_questions": [
+      "Ina buƙatar NIN don fasfo?",
+      "NIN da layin waya",
+      "NIN don asusun banki",
+      "NIN don JAMB",
+      "A ina ake buƙatar NIN?",
+      "Ina buƙatar NIN don buɗe asusun banki?",
+      "Me ya sa dole in haɗa NIN da layina?",
+      "Ana buƙatar NIN don JAMB?",
+      "Wadanne ayyuka ke buƙatar NIN?"
+    ],
+    "answer_text": "NIN dole ne ga: yin rajista ko ci gaba da amfani da layin waya (haɗa NIN da SIM); neman ko sabunta fasfo; neman lasisin tuƙi na ƙasa; haɗa asusun banki (NIN-BVN); rajistar JAMB da sauran jarrabawa; inshorar lafiya ta ƙasa; tabbatar da fansho da albashi; da sauran ayyukan gwamnati da na kuɗi da yawa. Ka riƙe takardar NIN ɗinka ko ta dijital a hannu."
+  },
+  {
+    "id": "nin-ninauth",
+    "document": "nimc-self-service",
+    "section_title": "Manhajar NINAuth",
+    "question_text": "Menene manhajar NINAuth kuma me zan iya yi da ita?",
+    "alt_questions": [
+      "Manhajar wayar NIMC",
+      "Manhajar shaidar dijital ta NIMC",
+      "Manhajar NIN",
+      "Menene NINAuth?",
+      "Menene manhajar NIMC?",
+      "Manhajar NIN ta waya",
+      "Yadda ake amfani da manhajar NIMC"
+    ],
+    "answer_text": "NINAuth ita ce manhajar shaidar dijital ta NIMC. Bayan ka tabbatar da kanka da NIN da lambar wayarka, za ka iya ganin NIN ɗinka, samun takardar NIN ta dijital, da amincewa ko ƙin buƙatun ƙungiyoyin da ke son tabbatar da wanda kake, ta yadda kai ke sarrafa wanda ke ganin bayananka. Ka sauke ta daga shagunan manhajoji na hukuma kawai kuma kada ka taɓa raba lambar shigarka da kowa."
+  },
+  {
+    "id": "nin-scam-warning",
+    "document": "nimc-nin-overview",
+    "section_title": "Guje wa wakilai da zamba",
+    "question_text": "Wakili zai iya samo mini NIN da sauri idan na biya?",
+    "alt_questions": [
+      "Kuɗin wakilan NIN",
+      "Lafiya ne in ba wani NIN ɗina?",
+      "Zamban NIN",
+      "Wani ya ce zai gaggauta NIN ɗina idan na biya",
+      "Lafiya ne in biya wakili don NIN?",
+      "Wakilan NIN na bogi",
+      "Zan ba wakili NIN ɗina?"
+    ],
+    "answer_text": "A'a. Rajistar NIN ta yau da kullum kyauta ce kuma babu wanda zai iya 'gaggauta' ta bisa doka a kan kuɗi. Ka yi amfani da cibiyoyin NIMC ko wakilan da NIMC ta ba lasisi kawai, ka rubuta adireshin shafukan hukuma da kanka maimakon bin hanyoyin haɗi, kuma kada ka taɓa raba takardar NIN, lambobin OTP ko shigarka ta NINAuth da wanda ba ka amince da shi ba. Ka kai ƙarar duk wanda ya nemi kuɗin da ba na hukuma ba ga NIMC ta hanyoyinta na hukuma."
+  },
+  {
+    "id": "pp-types",
+    "document": "nis-passports",
+    "section_title": "Nau'ikan fasfo",
+    "question_text": "Wadanne nau'ikan fasfon Najeriya ne ake da su?",
+    "alt_questions": [
+      "Bambancin fasfo mai shafi 32 da mai shafi 64",
+      "Fasfo na hukuma da na yau da kullum",
+      "Menene sabon e-passport?",
+      "Wadanne nau'ikan fasfo ne ake da su?",
+      "Bambancin fasfo mai shafi 32 da 64",
+      "Wa ke samun fasfo na hukuma?",
+      "Nau'in littafin fasfo"
+    ],
+    "answer_text": "Najeriya tana ba da nau'i uku: fasfo na yau da kullum (kore) ga dukkan 'yan ƙasa, mai shafi 32 na shekaru 5, mai shafi 64 na shekaru 5, da mai shafi 64 na shekaru 10; fasfo na hukuma (shuɗi) ga jami'an gwamnati masu matsayi da aka ƙayyade; da fasfo na jakadanci ga jakadu da manyan jami'ai da Shugaban Ƙasa ya amince da su. Sabon e-passport littafi ne na polycarbonate mai ƙarin tsaro, kuma littafin mai shafi 64 yana da inganci na shekaru 10."
+  },
+  {
+    "id": "pp-fees",
+    "document": "nis-passport-fees-2025",
+    "section_title": "Kuɗin fasfo",
+    "question_text": "Nawa ne kuɗin fasfon Najeriya?",
+    "alt_questions": [
+      "Kuɗin fasfo mai shafi 32",
+      "Farashin fasfo mai shafi 64 na shekaru 10",
+      "Kuɗin fasfo a Najeriya",
+      "Kuɗin fasfo ga 'yan Najeriya a ƙasashen waje",
+      "Farashin fasfo a Najeriya",
+      "Nawa ne fasfo mai shafi 64?",
+      "Kuɗin sabunta fasfo nawa ne?",
+      "Nawa ne kuɗin fasfo yanzu?",
+      "Sabon kuɗin fasfo",
+      "Nawa ne fasfo mai shafi 32?",
+      "Nawa ake biya don fasfo?"
+    ],
+    "answer_text": "Ga buƙatun da aka yi a cikin Najeriya, kuɗin da suka fara aiki a ranar 1 ga Satumba 2025 su ne: littafi mai shafi 32 na shekaru 5 ₦100,000; littafi mai shafi 64 na shekaru 10 ₦200,000. Littafi mai shafi 64 na shekaru 5 yana cikin jerin shafin NIS; ka tabbatar da farashinsa na yanzu a shafin lokacin da za ka nema. Ga 'yan Najeriya da ke nema a ƙasashen waje kuɗin ba su canza ba: $150 (shafi 32, shekaru 5) da $230 (shafi 64, shekaru 10). Ana biya a yanar gizo kawai ta shafin hukuma; kuɗin da aka nuna a shafin lokacin biya shi ne ya dace."
+  },
+  {
+    "id": "pp-fresh-steps",
+    "document": "nis-passports",
+    "section_title": "Sabon buƙata",
+    "question_text": "Ta yaya zan nemi sabon fasfon Najeriya?",
+    "alt_questions": [
+      "Hanyar neman fasfo",
+      "Fasfo na farko a Najeriya",
+      "Matakan samun fasfo",
+      "Yadda ake neman fasfo a yanar gizo",
+      "Yadda ake neman fasfo a karon farko",
+      "Ina so in yi fasfo, ta ina zan fara?",
+      "Hanyar neman sabon fasfo"
+    ],
+    "answer_text": "Don neman sabon fasfo na yau da kullum: 1) Je passport.immigration.gov.ng (rubuta da kanka) ka cike fom ɗin neman a yanar gizo. 2) Loda takardar shaidar haihuwa ta NPC ko shelar shekaru daga Babbar Kotu, wasiƙar shaidar jihar asali ko ƙaramar hukuma, ka biya a yanar gizo. 3) Zaɓi ranar ganawa a ofishin fasfo da ka zaɓa. 4) Halarci da kanka a ranar ganawa da takardar biyan kuɗi, takardar ganawa da ainihin takardunka don ɗaukar yatsu, hoto da sa hannu. 5) Bibiyi matsayin buƙatarka a shafin ka karɓi fasfonka idan ya shirya. Masu nema a wajen Najeriya suna amfani da passportintl.immigration.gov.ng da ofishin jakadancin Najeriya mafi kusa."
+  },
+  {
+    "id": "pp-documents",
+    "document": "nis-passports",
+    "section_title": "Takardun da ake buƙata",
+    "question_text": "Wadanne takardu nake buƙata don neman fasfon Najeriya?",
+    "alt_questions": [
+      "Abubuwan da ake buƙata na fasfo",
+      "Fom ɗin mai lamuni na fasfo",
+      "Ina buƙatar NIN don fasfo?",
+      "Ana buƙatar NIN don fasfo?",
+      "Me zan kawo ofishin fasfo?",
+      "Ana buƙatar mai lamuni don fasfo?",
+      "Takardun da ake buƙata don neman fasfo",
+      "Abubuwan da ake buƙata don fasfo"
+    ],
+    "answer_text": "Ga babban ɗan ƙasa ta haihuwa: NIN mai inganci (ana haɗa bayanan fasfo da NIN ɗinka); takardar shaidar haihuwa ta NPC (dole ga waɗanda aka haifa daga Disamba 1992) ko shelar shekaru da aka rantse a gaban Kwamishinan Rantsuwa; wasiƙar shaida daga ƙaramar hukumarka ko jihar asali, ko katin shaidar ƙasa; hotuna biyu na fasfo; fom ɗin mai lamuni (guarantor) da aka cike aka sa hannu a gaban Kwamishinan Rantsuwa, tare da kwafin shafin bayanan fasfon mai lamunin da hotonsa ɗaya; takardar aure inda ta dace; da takardar tabbatarwa da shaidar biyan kuɗi."
+  },
+  {
+    "id": "pp-minor",
+    "document": "nis-passports",
+    "section_title": "Fasfo ga yara",
+    "question_text": "Ta yaya zan samo wa ɗana fasfo?",
+    "alt_questions": [
+      "Fasfo ga ƙaramin yaro",
+      "Abubuwan da ake buƙata na fasfon yaro a Najeriya",
+      "Fasfon jariri",
+      "Fasfon yaro",
+      "Takardun fasfon yara",
+      "Jariri zai iya samun fasfo?",
+      "Yadda ake samo wa yaro fasfo",
+      "Fasfo ga ɗana ko 'yata",
+      "Fasfon yaro ɗan shekara 10"
+    ],
+    "answer_text": "Ga ƙaramin yaro (ƙasa da shekara 18): cike buƙata a yanar gizo; loda takardar shaidar haihuwa ta NPC ta yaron; shaidar cewa iyaye 'yan ƙasar Najeriya ne (misali shafin bayanan fasfon iyaye); wasiƙar amincewa daga iyaye; hoto ɗaya na yaron da iyayen da suka amince suka sa hannu; da takardar tabbatarwa da shaidar biyan kuɗi. Yaron dole ya halarci ofishin fasfo tare da iyaye don ɗaukar hoto da yatsu. Yaran da aka ɗauki riƙo suna ƙara buƙatar umarnin kotu na riƙo da amincewar Ma'aikatar Harkokin Mata ta Jiha."
+  },
+  {
+    "id": "pp-renewal",
+    "document": "nis-passports",
+    "section_title": "Sabuntawa",
+    "question_text": "Ta yaya zan sabunta fasfona?",
+    "alt_questions": [
+      "Hanyar sabunta fasfo",
+      "Fasfona ya ƙare",
+      "Sabunta fasfo a yanar gizo",
+      "Yadda ake sabunta fasfo",
+      "Fasfona ya ƙare, me zan yi?",
+      "Zan iya sabunta fasfo a yanar gizo?",
+      "Sabunta fasfo"
+    ],
+    "answer_text": "Sabuntawa tana bin hanya ɗaya da sabon buƙata a yanar gizo: 1) Nemi a passport.immigration.gov.ng, zaɓi sabuntawa, ka loda takardar haihuwa ko shelar shekaru, wasiƙar jihar asali da shafin bayanan fasfonka na yanzu. 2) Biya a yanar gizo ka zaɓi ranar ganawa. 3) Kawo tsohon littafin fasfo ofishin fasfo a ranar ganawa don ɗaukar hoto da yatsu. Lura: ana ɗaukar fasfo a matsayin wanda ya ƙare don tafiya idan ya rage ƙasa da watanni shida, don haka ka sabunta da wuri. Kuɗin daidai yake da na sabon littafi."
+  },
+  {
+    "id": "pp-change-data",
+    "document": "nis-passports",
+    "section_title": "Canjin suna ko bayanai",
+    "question_text": "Ta yaya zan canza suna ko in gyara kuskure a fasfona?",
+    "alt_questions": [
+      "Canjin suna a fasfo bayan aure",
+      "Gyara ranar haihuwa a fasfo",
+      "Canjin bayanai na fasfo",
+      "Gyara kuskure a fasfo",
+      "Canza ranar haihuwa a fasfo",
+      "Yadda ake canza suna a fasfo",
+      "Gyaran bayanai a fasfo"
+    ],
+    "answer_text": "Nemi 'canjin bayanai' a yanar gizo ka biya kuɗin gudanarwa da ba a mayarwa. Dangane da yanayin, za ka loda wasiƙar neman, rantsuwar kotu, sanarwar jarida game da canjin suna, wasiƙar jihar asali, takardar haihuwa ko shelar shekaru, da shafin bayanan fasfonka; don canjin suna na aure ka kuma loda takardar aure. Maye gurbin suna, ƙari, cirewa ko sake tsara suna ana yi ta hanyar sabis ɗin canza bayanai a shafin NIS. Daga nan sai ka halarci ofishin fasfo da littafinka na yanzu don ɗaukar yatsu da hoto."
+  },
+  {
+    "id": "pp-processing-time",
+    "document": "nis-passport-portal",
+    "section_title": "Lokacin sarrafawa da bibiya",
+    "question_text": "Tsawon lokaci nawa ake ɗauka kafin a samu fasfon Najeriya?",
+    "alt_questions": [
+      "Lokacin sarrafa fasfo",
+      "Bibiyar buƙatar fasfo",
+      "Yaushe fasfona zai shirya?",
+      "Yadda ake bibiyar fasfo",
+      "Kwana nawa ake ɗauka kafin fasfo ya fito?",
+      "Bibiyar matsayin fasfo"
+    ],
+    "answer_text": "NIS ba ta buga tabbataccen lokacin sarrafawa ba; a ƙarƙashin tsarin e-passport mai sarrafa kansa, samarwa yawanci tana ɗaukar kusan makonni biyu zuwa shida bayan an yi nasarar ɗaukar yatsu, ya danganta da ofishin da samuwar littattafai. Tsarin shafin yana ba ka damar bibiyar matsayin buƙatarka kuma ana sanar da kai idan fasfon ya shirya don karɓa a ofishin da aka ɗauki yatsunka. Ranakun ganawa a ofisoshi masu cunkoso (Legas, Abuja, Kano) na iya zama makonni gaba, don haka ka nema da wuri."
+  },
+  {
+    "id": "pp-where",
+    "document": "nis-passports",
+    "section_title": "Ofisoshin fasfo",
+    "question_text": "A ina zan iya neman fasfo?",
+    "alt_questions": [
+      "Ofishin fasfo kusa da ni",
+      "Zan iya neman fasfo a wajen jihata?",
+      "Wurin ofishin shige da fice",
+      "Zan iya neman fasfo a Legas duk da ni ɗan Kano ne?",
+      "Ofishin shige da fice kusa da ni",
+      "Ina ofishin fasfo yake?",
+      "Wane ofishin fasfo zan yi amfani da shi?",
+      "Lambar waya ta hukumar shige da fice"
+    ],
+    "answer_text": "Buƙatu suna farawa a yanar gizo a passport.immigration.gov.ng, inda za ka zaɓi kowane ofishin fasfo na NIS a Najeriya don ganawar ɗaukar yatsunka (ba a ƙayyade ka ga jihar asalinka ba). Akwai ofisoshin fasfo a dukkan jihohi 36 da Abuja. 'Yan Najeriya a ƙasashen waje suna nema ta passportintl.immigration.gov.ng kuma suna halartar ofishin jakadancin Najeriya mafi kusa. Tuntuɓar NIS: +234-912-1900-655, nis.servicom@nigeriaimmigration.gov.ng."
+  },
+  {
+    "id": "pp-touts",
+    "document": "nis-passports",
+    "section_title": "Guje wa 'yan kasuwar fasfo",
+    "question_text": "Zan yi amfani da wakili don samun fasfo da sauri?",
+    "alt_questions": [
+      "Wakilin fasfo",
+      "Gaggauta fasfo",
+      "'Yan tsakiya na fasfo",
+      "Lafiya ne in biya wani ya samo mini fasfo da sauri?",
+      "Yan tsakiya na fasfo",
+      "Gaggauta fasfo ta wakili"
+    ],
+    "answer_text": "NIS ta mayar da bayar da fasfo ta atomatik musamman don kawar da 'yan tsakiya da masu cin kuɗin jama'a. Ka biya a shafin hukuma kawai, ka rubuta adireshin da kanka, ka halarci ganawarka da kanka. Babu wanda zai iya ba da fasfo bisa doka a wajen tsarin hukuma, kuma biyan ɗan kasuwa yana jefa ka cikin haɗarin zamba da bayanan fasfo da za a iya tuhuma daga baya. Yi amfani da layin taimako na hukuma (+234-912-1900-655) idan kana da matsala da buƙatarka."
+  },
+  {
+    "id": "dl-overview",
+    "document": "frsc-dl-faq",
+    "section_title": "Game da lasisin tuƙi na ƙasa",
+    "question_text": "Menene lasisin tuƙi na ƙasa kuma wa ke bayarwa?",
+    "alt_questions": [
+      "Wa ke ba da lasisin tuƙi a Najeriya?",
+      "Lasisin tuƙi na FRSC",
+      "Ajin lasisin tuƙi",
+      "Menene lasisin tuƙi na ƙasa?",
+      "Wace hukuma ke ba da lasisin tuƙi?",
+      "FRSC ce ke ba da lasisin tuƙi?"
+    ],
+    "answer_text": "Ana ba da lasisin tuƙi na ƙasa a ƙarƙashin tsarin da Hukumar Kiyaye Haɗurra ta Ƙasa (FRSC) ke gudanarwa tare da Hukumar Haraji ta Haɗin Gwiwa (JTB) da ofisoshin kula da ababen hawa na jihohi (Hukumar Haraji ta Jiha / VIO). Ana nema a shafin hukuma nigeriadriverslicence.frsc.gov.ng (tsohon adireshin nigeriadriverslicence.org yana tura zuwa gare shi). Ana ba da lasisi bisa aji; sabbin masu nema za su iya neman aji biyu, A (babur/keke napep) da B (motar kashin kai). Ajin kasuwanci ana sarrafa su a cibiyar ɗaukar bayanai, ba daga shafin farko ba."
+  },
+  {
+    "id": "dl-fresh-steps",
+    "document": "frsc-dl-faq",
+    "section_title": "Sabon buƙata",
+    "question_text": "Ta yaya zan nemi sabon lasisin tuƙi?",
+    "alt_questions": [
+      "Hanyar neman lasisin tuƙi",
+      "Yadda ake samun lasisin tuƙi a Najeriya",
+      "Matakan sabon lasisin tuƙi",
+      "Yadda ake neman lasisin tuƙi",
+      "Na gama makarantar tuƙi, me zan yi?",
+      "Matakan neman lasisin tuƙi",
+      "Hanyar samun sabon lasisin tuƙi",
+      "Neman lasisin tuƙi a karon farko",
+      "Ta yaya zan samu lasisin tuƙi?"
+    ],
+    "answer_text": "1) Kammala horo a makarantar koyon tuƙi da FRSC ta amince da ita ka karɓi lambar takardar makarantar. 2) Je nigeriadriverslicence.frsc.gov.ng, buɗe 'DL Application' ka zaɓi 'New Driver's Licence'. 3) Shigar da lambar takardarka, cike bayananka (kana buƙatar NIN mai inganci), zaɓi ajin lasisi da tsawon lokaci (shekaru 3 ko 5) ka amsa 'No' ga tambayar ko kana da lasisi a da. 4) Biya a yanar gizo da kati, a banki, ta POS a cibiyar lasisi ko ta eWallet. 5) Je cibiyar ɗaukar bayanai da kanka (ka same ta a Contact > Capture Centre bisa jiha da ƙaramar hukuma) don ɗaukar yatsu da gwajin tuƙi tare da jami'in binciken ababen hawa. 6) Za a ba ka lasisi na ɗan lokaci; bibiyi katin na dindindin a 'Track DL Application Status' ka karɓa idan ya shirya."
+  },
+  {
+    "id": "dl-requirements",
+    "document": "frsc-dl-faq",
+    "section_title": "Abubuwan da ake buƙata",
+    "question_text": "Menene abubuwan da ake buƙata don lasisin tuƙi?",
+    "alt_questions": [
+      "Abubuwan da ake buƙata na lasisin tuƙi a Najeriya",
+      "Ƙaramin shekaru don lasisin tuƙi",
+      "Ina buƙatar NIN don lasisin tuƙi?",
+      "Shekaru nawa ake buƙata don lasisin tuƙi?",
+      "Ana buƙatar makarantar tuƙi don lasisi?",
+      "Ana buƙatar NIN don lasisin tuƙi?",
+      "Me nake buƙata don lasisin tuƙi?",
+      "Abubuwan da ake buƙata don lasisin tuƙi"
+    ],
+    "answer_text": "Dole ne ka kai aƙalla shekara 18; kana da Lambar Shaidar Ƙasa (NIN) mai inganci; ka kammala horo a makarantar tuƙi da aka amince kuma kana da lambar takardarta; ka ci jarrabawar rubutu da ta aiki da ake yi a cibiyar ɗaukar bayanai; ka gabatar da takardar lafiya daga likita (dole ga ajin kasuwanci); ka kawo hotunan fasfo; ka biya kuɗin hukuma. Dole ka halarci cibiyar da kanka; babu wanda zai iya ɗaukar yatsunka ko ya aika hotunanka a madadinka."
+  },
+  {
+    "id": "dl-fees",
+    "document": "frsc-dl-fees-2024",
+    "section_title": "Kuɗi",
+    "question_text": "Nawa ne kuɗin lasisin tuƙi?",
+    "alt_questions": [
+      "Kuɗin lasisin tuƙi na shekaru 3",
+      "Kuɗin lasisin tuƙi na shekaru 5",
+      "Kuɗin lasisin babur",
+      "Farashin lasisin tuƙi a Najeriya",
+      "Nawa ne lasisin shekaru biyar?",
+      "Farashin lasisin tuƙi",
+      "Nawa ne kuɗin lasisin tuƙi yanzu?",
+      "Nawa ake biya don lasisin tuƙi?",
+      "Kuɗin lasisi na shekaru 3"
+    ],
+    "answer_text": "Kuɗin da Hukumar Haraji ta Haɗin Gwiwa ta amince da su, masu aiki daga 1 ga Nuwamba 2024, su ne: ajin mota (aji B da sauransu) ₦15,000 na shekaru 3 da ₦21,000 na shekaru 5; babur da keke napep (aji A) ₦7,000 na shekaru 3 da ₦11,000 na shekaru 5. Ana cajin kowane aji daban, kuma hanyoyin biya na banki ko kati na iya ƙara ɗan kuɗi. Sabuntawa tana kashe daidai da sabon lasisi na aji da tsawon lokaci ɗaya. Ka biya ta shafin hukuma ko bankunan da aka ƙayyade kawai; adadin da aka nuna a shafin lokacin biya shi ne ya dace."
+  },
+  {
+    "id": "dl-renewal",
+    "document": "frsc-dl-faq",
+    "section_title": "Sabuntawa",
+    "question_text": "Ta yaya zan sabunta lasisin tuƙina?",
+    "alt_questions": [
+      "Sabunta lasisin tuƙi",
+      "Lasisin tuƙina ya ƙare",
+      "Sabunta lasisin tuƙi a yanar gizo",
+      "Lasisin tuƙina ya ƙare, me zan yi?",
+      "Yadda ake sabunta lasisin tuƙi",
+      "Hanyar sabunta lasisi",
+      "Lasisin tuki expired, me zan yi?",
+      "Lasisin tuƙi ya expire",
+      "Ta yaya zan yi driver's licence renewal?",
+      "Yadda ake yin renewal na lasisin tuƙi"
+    ],
+    "answer_text": "Je nigeriadriverslicence.frsc.gov.ng, buɗe 'DL Application' ka zaɓi 'Renewal of Driver's Licence'. Shigar da lambar lasisinka na yanzu, tabbatar da bayananka, zaɓi shekaru 3 ko 5 ka biya a yanar gizo. Sannan ka je cibiyar ɗaukar bayanai don sabon ɗaukar yatsu (ba a buƙatar sabon horon makarantar tuƙi). Idan lasisinka ya ƙare dole ka yi amfani da Renewal; idan yana da inganci amma ya ɓace ko ya lalace, ka yi amfani da Re-Issue. Lasisin da aka sabunta yana aiki har zuwa sabuwar ranar ƙarewa."
+  },
+  {
+    "id": "dl-reissue",
+    "document": "frsc-dl-faq",
+    "section_title": "Lasisi ya ɓace ko an sace",
+    "question_text": "Me zan yi idan lasisin tuƙina ya ɓace ko an sace shi?",
+    "alt_questions": [
+      "Maye gurbin lasisin tuƙi da ya ɓace",
+      "Sake fitar da lasisin tuƙi",
+      "Lasisin tuƙi ya lalace",
+      "An sace lasisina",
+      "Lasisin tuƙina ya lalace, me zan yi?",
+      "Lasisin tuƙi ya ɓace",
+      "Maye gurbin lasisin da ya ɓace",
+      "An sace lasisin tuƙina"
+    ],
+    "answer_text": "Idan lasisin har yanzu yana da inganci, je 'DL Application' > 'Re-Issue of Driver's Licence' a nigeriadriverslicence.frsc.gov.ng, shigar da lambar lasisinka, ka biya ka halarci cibiyar ɗaukar bayanai. Ana ba da shawarar rahoton 'yan sanda ga lasisin da aka sace. Idan lasisin da ya ɓace ya riga ya ƙare, ka yi amfani da Renewal maimakon haka. Haɓakawa (ƙara ko cire aji) ana yi ta hanyar sabuntawa ko sake fitarwa da lambar lasisinka; ƙara aji ana cajin daban."
+  },
+  {
+    "id": "dl-validity",
+    "document": "frsc-dl-faq",
+    "section_title": "Tsawon inganci",
+    "question_text": "Tsawon lokaci nawa lasisin tuƙi ke aiki?",
+    "alt_questions": [
+      "Lokacin ingancin lasisin tuƙi",
+      "Lasisi na shekaru 3 ko 5",
+      "Lasisi na shekaru 3 ko 5?",
+      "Ingancin lasisin tuƙi",
+      "Shekaru nawa lasisin tuƙi ke ɗauka?"
+    ],
+    "answer_text": "Lokacin nema kana zaɓar tsawon inganci na shekaru 3 ko shekaru 5. Kuɗin ya danganta da tsawon lokaci da ajin lasisi. Ya kamata ka fara sabuntawa kafin ranar ƙarewa; tuƙi da lasisin da ya ƙare laifi ne a ƙarƙashin dokokin FRSC."
+  },
+  {
+    "id": "dl-tracking",
+    "document": "frsc-dl-faq",
+    "section_title": "Bibiya da karɓa",
+    "question_text": "Ta yaya zan bibiyi buƙatar lasisin tuƙina ko in karɓi katina?",
+    "alt_questions": [
+      "Duba matsayin lasisin tuƙi",
+      "Ina zan karɓi lasisin tuƙina?",
+      "Lasisin tuƙi bai shirya ba",
+      "Ina zan karɓi katin lasisina?",
+      "Lasisina bai shirya ba",
+      "Yadda ake duba matsayin lasisin tuƙi",
+      "Karɓar katin lasisin tuƙi",
+      "Bibiyar lasisin tuƙi"
+    ],
+    "answer_text": "Yi amfani da 'Track DL Application Status' a nigeriadriverslicence.frsc.gov.ng da lambar buƙatarka ko lambar lasisi da ranar haihuwarka. Za ka iya gyara buƙata kafin biya kawai, kuma ana goge buƙatun da ba a biya ba bayan watanni uku. Ana karɓar katin dindindin a ofishin kula da ababen hawa / ofishin lasisi da ke da alaƙa da cibiyar da ka yi amfani da ita; lasisin ɗan lokaci yana rufe ka har sai lokacin. Don taimako kira FRSC a 0700-2255-3772 ko layin gaggawa kyauta 122."
+  },
+  {
+    "id": "dl-commercial",
+    "document": "frsc-dl-faq",
+    "section_title": "Lasisin kasuwanci da na jakadanci",
+    "question_text": "Ta yaya zan samu lasisin tuƙi na kasuwanci?",
+    "alt_questions": [
+      "Abubuwan da ake buƙata na lasisin kasuwanci",
+      "Lasisi ga manyan motoci da bas",
+      "Lasisin tuƙi na jakadanci",
+      "Lasisin manyan motoci",
+      "Lasisin tuƙi na kasuwanci",
+      "Lasisin bas da manyan motoci",
+      "Abubuwan da ake buƙata don lasisin kasuwanci"
+    ],
+    "answer_text": "Ba za a iya fara ajin lasisin kasuwanci daga shafin farko na yanar gizo ba. Je da kanka cibiyar ɗaukar bayanai da takardar makarantar tuƙi da takardar lafiya daga likita; jami'in FRSC zai fara maka buƙatar, sannan ka biya ka kammala ɗaukar yatsu. Lasisin jakadanci ana bayarwa a Hedikwatar FRSC a Abuja kawai bayan an gabatar da takardun da ke tabbatar da matsayin jakadanci."
+  },
+  {
+    "id": "br-overview",
+    "document": "npc-civil-registration",
+    "section_title": "Rajistar haihuwa da mutuwa",
+    "question_text": "Menene rajistar al'umma (civil registration) kuma wa ke da alhakinta a Najeriya?",
+    "alt_questions": [
+      "Wa ke ba da takardar haihuwa a Najeriya?",
+      "Menene NPC?",
+      "Wadanne abubuwa NPC ke yin rajista?",
+      "Menene rajistar al'umma?",
+      "Wace hukuma ke yin rajistar haihuwa?",
+      "Aikin Hukumar Ƙidaya ta Ƙasa"
+    ],
+    "answer_text": "Rajistar al'umma ita ce ci gaba da rubuta muhimman abubuwan rayuwa bisa dole: haihuwa, mutuwa, haihuwar da ba ta rayu ba, aure da makamantansu. A Najeriya Hukumar Ƙidaya ta Ƙasa (NPC) ce ke da alhakin rajistar haihuwa, mutuwa da haihuwar da ba ta rayu ba a ƙarƙashin Dokar Rajistar Haihuwa da Mutuwa ta Dole mai lamba 69 ta 1992. NPC tana da kusan cibiyoyin rajista 4,000 a ƙananan hukumomi 774, aƙalla huɗu a kowace ƙaramar hukuma. Takardar shaidar haihuwa ta NPC ita ce shaidar doka ta shekaru, iyaye da wurin haihuwa, kuma ana buƙatar ta don fasfo, bayanan ranar haihuwa na NIN, shiga makaranta da sauransu."
+  },
+  {
+    "id": "br-how-register",
+    "document": "npc-birth-selfservice",
+    "section_title": "Yin rajistar haihuwa",
+    "question_text": "Ta yaya zan yi rajistar haihuwar ɗana in samu takardar haihuwa?",
+    "alt_questions": [
+      "Hanyar rajistar haihuwa",
+      "Yadda ake samun takardar haihuwa ta NPC",
+      "Ina zan yi rajistar haihuwa?",
+      "Takardar haihuwa ga jariri",
+      "Yadda ake samun takardar haihuwa",
+      "Ina zan yi rajistar jariri?",
+      "Hanyar samun takardar shaidar haihuwa",
+      "Yadda ake yin rajistar haihuwa",
+      "Ina zan yi rajistar haihuwar yaro?"
+    ],
+    "answer_text": "A cibiya: kai yaron (ko takardar sanarwar haihuwa ta asibiti) cibiyar rajista ta NPC mafi kusa, yawanci a sakatariyar ƙaramar hukuma, cibiyar lafiya ta farko ko babban asibiti. Mai rajista zai rubuta sunan yaron, rana da wurin haihuwa da bayanan iyaye ya ba da takardar shaidar haihuwa ta NPC. A yanar gizo: iyaye mai NIN zai iya buɗe asusu a shafin rajistar haihuwa na NPC (birthreg-selfservice.nationalpopulation.gov.ng, ɓangare na tsarin eCRVS), ya yi tabbatar da fuska, ya shigar da bayanan yaron da iyaye, ya aika, ya bibiyi buƙatar ya sauke takardar idan an amince (ana iya saukewa sau ɗaya kawai, don haka ka adana ta). Ka yi rajista da wuri; doka tana sa ran a yi rajistar haihuwa cikin kwanaki 60."
+  },
+  {
+    "id": "br-documents",
+    "document": "npc-birth-selfservice",
+    "section_title": "Takardun rajistar haihuwa",
+    "question_text": "Wadanne takardu nake buƙata don yin rajistar haihuwa?",
+    "alt_questions": [
+      "Abubuwan da ake buƙata na rajistar haihuwa",
+      "Takardun samun takardar haihuwa",
+      "Me zan kawo don takardar haihuwa?",
+      "Abubuwan da ake buƙata don rajistar haihuwa",
+      "Takardun rajistar haihuwa",
+      "Me nake buƙata don samun takardar haihuwa?"
+    ],
+    "answer_text": "Kawo takardar sanarwar haihuwa ta asibiti ko katin rigakafi (ko bayani daga ungozoma ko shaida ga haihuwar gida), shaidar iyaye (takardar NIN, fasfo, katin zaɓe ko lasisin tuƙi), takardar auren iyaye idan akwai, da cikakken sunan yaron, rana da wurin haihuwa. Ga hanyar yanar gizo, iyayen da ke yin rajista yana buƙatar NIN ɗinsa, adireshin imel da na'ura mai kyamara don tabbatar da fuska."
+  },
+  {
+    "id": "br-cost",
+    "document": "npc-vitalreg-2026",
+    "section_title": "Kuɗi",
+    "question_text": "Nawa ne kuɗin rajistar haihuwa?",
+    "alt_questions": [
+      "Rajistar haihuwa kyauta ce?",
+      "Kuɗin takardar haihuwa",
+      "Kuɗin da NPC ke karɓa don takardar haihuwa",
+      "Ana biya don rajistar haihuwar yaro?",
+      "Nawa ne kuɗin takardar haihuwa?",
+      "Kuɗin rajistar haihuwa",
+      "Ana karɓar kuɗi don takardar haihuwa?"
+    ],
+    "answer_text": "Rajistar haihuwar yara da ba su kai shekara biyar ba kyauta ce a cibiyoyin rajista na NPC. Wasu zaɓuɓɓukan yanar gizo, rajistar da ta makara da ayyukan tabbatar da haihuwa suna da kuɗin hukuma, waɗanda ake nunawa a shafin NPC kafin ka biya; ka biya ta hanyar biyan kuɗi ta hukuma ta shafin kawai. Idan wani a cibiya ya nemi kuɗi don yin rajistar yaro ƙasa da shekara biyar, ka nemi rasit na hukuma ko ka kai ƙara ga NPC."
+  },
+  {
+    "id": "br-late",
+    "document": "npc-civil-registration",
+    "section_title": "Rajistar da ta makara",
+    "question_text": "Zan iya yin rajistar haihuwa a makare, ko in samu takardar haihuwa ina babba?",
+    "alt_questions": [
+      "Rajistar haihuwa a makare",
+      "Takardar haihuwa ga manya",
+      "Ba a yi mini rajista a haihuwa ba",
+      "Zan iya samun takardar haihuwa ina da shekara 25?",
+      "Takardar haihuwa ga babba",
+      "Ba a yi mini rajista a haihuwa ba, me zan yi?",
+      "Rajistar haihuwa bayan shekaru"
+    ],
+    "answer_text": "Eh. Ya kamata a yi rajistar haihuwa cikin kwanaki 60, amma NPC har yanzu tana yi wa manyan yara rajista. Yara ƙasa da shekara biyar ana yi musu rajista kyauta; ga manyan yara da manya da ba a taɓa yi musu rajista ba, NPC tana ba da Takardar Tabbatar da Haihuwa (Attestation of Birth) bayan ka kawo shaidu kamar katin baftisma, bayanan makaranta, rantsuwar shekaru, shaidar iyaye ko bayanan asibiti. Ana iya neman tabbatarwa a cibiyar rajista ko ta shafukan NPC na yanar gizo kuma tana da kuɗin hukuma."
+  },
+  {
+    "id": "br-attestation-vs-certificate",
+    "document": "npc-civil-registration",
+    "section_title": "Tabbatarwa da takardar haihuwa",
+    "question_text": "Menene bambanci tsakanin takardar haihuwa da takardar tabbatar da haihuwa?",
+    "alt_questions": [
+      "Ma'anar tabbatar da haihuwa",
+      "Ina buƙatar tabbatarwa ko takardar haihuwa don fasfo?",
+      "Menene takardar tabbatar da haihuwa?",
+      "Bambanci tsakanin takardar haihuwa da tabbatarwa",
+      "Tabbatarwa ko takardar haihuwa don fasfo?"
+    ],
+    "answer_text": "Takardar haihuwa ana bayarwa lokacin da aka yi rajistar haihuwa (zai fi kyau cikin kwanaki 60, ko a kowane hali tun yaron ƙarami) kuma ita ce babban bayanan rajista. Takardar Tabbatar da Haihuwa takarda ce da NPC ke bayarwa ga mutumin da ba a yi masa rajista a lokacin haihuwa ba, bisa shaidun da aka gabatar daga baya; tana zama shaidar rana da wurin haihuwa don fasfo, gyaran NIN da sauran buƙatu. NIS tana karɓar takardar haihuwa ta NPC ga masu nema da aka haifa daga Disamba 1992, da shelar shekaru ko tabbatarwar NPC ga manyan masu nema. Don gyaran ranar haihuwa a NIN, waɗanda aka haifa kafin 1992 suna amfani da tabbatarwa, waɗanda aka haifa daga baya suna amfani da takardar haihuwa."
+  },
+  {
+    "id": "br-online-portals",
+    "document": "npc-vitalreg-2026",
+    "section_title": "Shafukan yanar gizo",
+    "question_text": "Zan iya yin rajistar haihuwa ko mutuwa a yanar gizo a Najeriya?",
+    "alt_questions": [
+      "Shafin NPC na yanar gizo",
+      "eCRVS Najeriya",
+      "VitalReg",
+      "Rajistar haihuwa ta dijital",
+      "Shafin NPC na intanet",
+      "Menene eCRVS?",
+      "Zan iya yin rajistar haihuwa a yanar gizo?",
+      "Rajistar haihuwa ta intanet",
+      "Yadda ake samun takardar haihuwa a yanar gizo"
+    ],
+    "answer_text": "Eh. Tsarin NPC na rajistar al'umma da ƙididdiga ta lantarki (eCRVS) ya fara aiki gaba ɗaya a faɗin ƙasa daga Yuli 2026 a dukkan jihohi 36 da Abuja. Shafuka: birthreg-selfservice.nationalpopulation.gov.ng (rajistar haihuwa da kanka), ecrvs.nationalpopulation.gov.ng (eCRVS), da foreignbirth.nationalpopulation.gov.ng (sanarwar haihuwa a ƙasashen waje). Kana buɗe asusu da sunanka, imel da NIN tare da tabbatar da fuska, ka zaɓi sabis (rajistar haihuwa ko mutuwa, tabbatarwa, sake fitar da takarda inda ake bayarwa), ka aika, ka bibiya, ka sauke takardar dijital. Ka rubuta adireshin da kanka koyaushe don guje wa shafukan bogi."
+  },
+  {
+    "id": "br-death",
+    "document": "npc-civil-registration",
+    "section_title": "Rajistar mutuwa",
+    "question_text": "Ta yaya zan yi rajistar mutuwa in samu takardar shaidar mutuwa?",
+    "alt_questions": [
+      "Takardar mutuwa a Najeriya",
+      "Rajistar mutuwa a NPC",
+      "Ina zan yi rajistar mutuwar mahaifina?",
+      "Rajistar mutuwa a Najeriya",
+      "Yadda ake samun takardar mutuwa",
+      "Takardar shaidar mutuwa",
+      "Wa ke ba da takardar mutuwa?"
+    ],
+    "answer_text": "Ana yin rajistar mutuwa a Hukumar Ƙidaya ta Ƙasa (NPC). Kai takardar likita ta dalilin mutuwa daga asibiti (ko bayani daga shaida ga mutuwar gida) da shaidar mamacin cibiyar rajista ta NPC mafi kusa, ko ka yi amfani da sabis ɗin rajistar mutuwa a shafin NPC na yanar gizo, inda ake ba da takardar ta dijital inda ya dace. Ana buƙatar takardar mutuwa don izinin binnewa, gado, inshora da buƙatun fansho."
+  },
+  {
+    "id": "gen-what-can-you-do",
+    "document": "about-assistant",
+    "section_title": "Iyaka",
+    "question_text": "Me za ka iya taimaka mini da shi?",
+    "alt_questions": [
+      "Sannu",
+      "Ina kwana",
+      "Ina wuni",
+      "Menene Tambaya NG?",
+      "Taimako",
+      "Wadanne ayyuka kake rufewa?",
+      "Me za ka iya yi?",
+      "Wane ne kai?",
+      "Barka da yamma",
+      "Barka da safiya"
+    ],
+    "answer_text": "Tambaya NG tana amsa tambayoyi game da ayyukan gwamnati guda huɗu na Najeriya ta amfani da tabbatattun bayanai daga hukumomin da abin ya shafa: Lambar Shaidar Ƙasa (NIMC), fasfo (Hukumar Shige da Fice ta Najeriya), lasisin tuƙi na ƙasa (FRSC) da rajistar haihuwa da al'umma (Hukumar Ƙidaya ta Ƙasa). Za ka iya tambaya da Hausa, Turanci, Yarbanci, Igbo ko Pidgin game da abubuwan da ake buƙata, takardu, matakai, kuɗi da inda za ka je, kuma kowace amsa tana nuna tushen hukuma. Ina ba da bayani da jagora kawai; ba zan iya yi maka rajista, ba da takardu, sarrafa biyan kuɗi ko duba bayananka na kanka ba, kuma zan nuna maka hanyar hukuma idan kana buƙatar ɗaukar mataki."
+  },
+  {
+    "id": "gen-boundary",
+    "document": "about-assistant",
+    "section_title": "Iyakar aiki",
+    "question_text": "Za ka iya neman fasfo ko NIN a madadina?",
+    "alt_questions": [
+      "Za ka iya duba matsayin NIN ɗina?",
+      "Za ka iya ɗauko mini ranar ganawa?",
+      "Kana sarrafa buƙatu?",
+      "Za ka iya duba NIN ɗina?",
+      "Za ka iya yi mini rajistar NIN?",
+      "Za ka iya tabbatar da NIN ɗina?",
+      "Kai shafin gwamnati ne?"
+    ],
+    "answer_text": "A'a. Tambaya NG mataimaki ne na bayani da jagora, ba shafin gwamnati ba. Ba ta yin ciniki, ba ta shiga kowane rumbun bayanan gwamnati, ba ta tabbatar da shaida, ba ta biyan kuɗi ko amincewa da buƙatu, kuma ba ta taɓa neman NIN ɗinka, lambar fasfo ko wasu bayanan kanka. Don kowace buƙata ko ciniki na gaske, yi amfani da hanyar hukuma: nimc.gov.ng da *346# don NIN, passport.immigration.gov.ng don fasfo, nigeriadriverslicence.frsc.gov.ng don lasisin tuƙi, da cibiyoyin rajista na NPC ko shafukan eCRVS don rajistar haihuwa."
+  },
+  {
+    "id": "pp-lost",
+    "document": "nis-passports",
+    "section_title": "Fasfon da ya ɓace",
+    "question_text": "Me zan yi idan fasfona ya ɓace ko an sace shi?",
+    "alt_questions": [
+      "Fasfona ya ɓace",
+      "An sace min fasfo",
+      "Yaya zan maye gurbin fasfon da ya ɓace?",
+      "Fasfo ya bace"
+    ],
+    "answer_text": "Idan fasfon Najeriya ya ɓace ko an sace shi: 1) Kai rahoto ga 'yan sanda da wuri ka karɓi rahoton 'yan sanda wanda ke ɗauke da lambar fasfonka. 2) Nemo kwafin shafin bayanan fasfo, ko aƙalla lambar fasfo da ranar bayarwa. 3) Rubuta wasiƙar neman izini zuwa ga Comptroller General of Immigration (ko ka nema ta yanar gizo a passport.immigration.gov.ng), tare da rahoton 'yan sanda, kwafin shafin bayanai da hotunan fasfo guda biyu, sannan ka biya kuɗin hukuma a shafin. 4) Hedikwatar NIS a Abuja za ta duba ta amince kafin a ba da sabon littafi, sannan za a kira ka don ɗaukar bayanan halitta da kanka. Idan kana ƙasar waje kuma kana buƙatar komawa Najeriya cikin gaggawa, ofishin jakadancin Najeriya zai iya ba ka Emergency Travel Certificate. Ka adana rahoton 'yan sanda, saboda an yi wa tsohuwar lambar fasfo alama."
+  },
+  {
+    "id": "gen-misuse",
+    "document": "about-assistant",
+    "section_title": "Abin da ba zan taimaka da shi ba",
+    "question_text": "Za ka iya taimaka min samun NIN, fasfo ko lasisi na bogi?",
+    "alt_questions": [
+      "Yaya zan sami lasisin tuƙi ba tare da gwaji ba?",
+      "Taimaka min yin takardar haihuwa ta jabu",
+      "Zan iya amfani da NIN na wani?",
+      "Yaya zan sayi fasfo ba tare da ɗaukar hoto ba?"
+    ],
+    "answer_text": "Ba zan iya taimakawa da wannan ba. Yin ko sayen takardun bogi, samun fasfo ko lasisi ba tare da ɗaukar bayanai ko gwaji ba, amfani da NIN na wani, ko canza bayanai da ƙarya laifi ne a Najeriya kuma yana iya kai ga gurfanarwa. Hanyoyin da suka dace su ne: rajistar NIN kyauta ce a cibiyoyin NIMC (nimc.gov.ng); fasfo ta hanyar passport.immigration.gov.ng tare da ɗaukar bayanai da kanka; lasisin tuƙi yana buƙatar makarantar tuƙi da gwaji ta nigeriadriverslicence.frsc.gov.ng; kuma bayanan haihuwa ta hannun NPC. Idan bayananka suna da kuskure na gaskiya, yi amfani da hanyar gyara ta hukuma. Tambaye ni game da kowane mataki zan yi maka bayani."
+  }
+]

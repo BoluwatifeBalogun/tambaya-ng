@@ -1,0 +1,278 @@
+[
+  {
+    "id": "nin-what-is",
+    "document": "nimc-nin-overview",
+    "section_title": "Gịnị bụ NIN",
+    "question_text": "Gịnị bụ Nọmba Njirimara Mba (NIN)?",
+    "alt_questions": [
+      "Gịnị bụ NIN?",
+      "Kọwaa NIN",
+      "Gịnị mere m ji chọọ NIN?"
+    ],
+    "answer_text": "Nọmba Njirimara Mba (NIN) bụ nọmba pụrụ iche nwere ọnụọgụ iri na otu nke Ụlọọrụ Njikwa Njirimara Mba (NIMC) na-enye nwa amaala ọ bụla na onye bi na Naịjirịa n'ụzọ iwu kwadoro mgbe ha debanyere aha na Nchekwa Data Njirimara Mba. A na-enye ya otu ugboro, ọ na-adịgide gị ndụ gị niile. A na-eji NIN akwado onye ị bụ maka ọrụ dị ka ndebanye aha SIM, ịrịọ paspọtụ, ikike ịnya ụgbọala, njikọ BVN ụlọakụ, ndebanye aha JAMB na mmemme gọọmentị."
+  },
+  {
+    "id": "nin-enrol-steps",
+    "document": "nimc-nin-overview",
+    "section_title": "Otu esi edebanye aha",
+    "question_text": "Kedu ka m ga-esi debanye aha maka NIN?",
+    "alt_questions": [
+      "Ndebanye aha NIN",
+      "Ebee ka m ga-enweta NIN?",
+      "Usoro inweta NIN",
+      "Kedu ka m ga-esi nweta NIN?",
+      "Ebee ka m ga-eme NIN?",
+      "Kedu ka e si enweta NIN?"
+    ],
+    "answer_text": "Iji debanye aha maka NIN: 1) Gaa n'ụlọọrụ ndebanye aha NIMC ma ọ bụ onye nnọchi anya NIMC nyere ikike dị nso. 2) Dejupụta akwụkwọ ndebanye aha (ị nwere ike ibido n'ịntanetị na weebụsaịtị NIMC). 3) Gosi otu akwụkwọ a nabatara (dị ka akwụkwọ ọmụmụ, kaadị ntuli aka, ikike ịnya ụgbọala, paspọtụ ma ọ bụ nkwupụta afọ). 4) A ga-ewere mkpịsị aka gị iri, foto ihu na mbinye aka gị. 5) A ga-enye gị akwụkwọ nkwenye; a ga-enye gị NIN mgbe a hazichara ya (n'ime ụbọchị ole na ole), ị nwekwara ike inweta ya site n'ịkpọ *346# site na nọmba ekwentị i ji debanye aha. Ndebanye aha bụ n'efu."
+  },
+  {
+    "id": "nin-cost",
+    "document": "nimc-fee-schedule-2025",
+    "section_title": "Ọnụ ahịa",
+    "question_text": "Ego ole ka ndebanye aha NIN na-efu?",
+    "alt_questions": [
+      "NIN ọ bụ n'efu?",
+      "M ga-akwụ ụgwọ maka NIN?",
+      "Ego ole ka NIN na-efu?",
+      "Ego ole ka ndebanye aha NIN bu?",
+      "Ego ole ka ndebanye aha NIN bụ?"
+    ],
+    "answer_text": "Ndebanye aha NIN na akwụkwọ NIN mbụ bụ N'EFU n'ụlọọrụ NIMC na ndị nnọchi anya nwere ikike. NIMC dọrọ ọha aka ná ntị ka ha ghara ịkwụ onye ọ bụla ụgwọ maka ndebanye aha nkịtị. Naanị ndebanye aha pụrụ iche (VIP) ka a na-akwụ ụgwọ, nke a na-eme n'ọnụ ụlọ nchere nwere ikike na ụlọọrụ visa, nke ndepụta ụgwọ NIMC nke Mee 2025 debere na ₦20,000. Kọọrọ NIMC onye ọ bụla na-arịọ ego maka ndebanye aha nkịtị."
+  },
+  {
+    "id": "pp-fees",
+    "document": "nis-passport-fees-2025",
+    "section_title": "Ụgwọ paspọtụ",
+    "question_text": "Ego ole ka paspọtụ Naịjirịa na-efu?",
+    "alt_questions": [
+      "Ọnụ ahịa paspọtụ",
+      "Ụgwọ paspọtụ peeji 32",
+      "Ụgwọ paspọtụ peeji 64",
+      "Ego ole ka paspotu Naijiria bu?",
+      "Ego ole ka paspọtụ Naịjirịa bụ?",
+      "Ego ole ka passport na-efu?"
+    ],
+    "answer_text": "Maka arịrịọ e mere na Naịjirịa, ụgwọ malitere ịrụ ọrụ na 1 Septemba 2025 bụ: akwụkwọ peeji 32 nke afọ 5 ₦100,000; akwụkwọ peeji 64 nke afọ 10 ₦200,000. Kwenye ọnụ ahịa akwụkwọ peeji 64 nke afọ 5 na weebụsaịtị mgbe ị na-arịọ. Maka ndị Naịjirịa nọ na mba ọzọ, ụgwọ agbanwebeghị: $150 (peeji 32, afọ 5) na $230 (peeji 64, afọ 10). A na-akwụ ụgwọ naanị n'ịntanetị na passport.immigration.gov.ng."
+  },
+  {
+    "id": "pp-fresh-steps",
+    "document": "nis-passports",
+    "section_title": "Arịrịọ ọhụrụ",
+    "question_text": "Kedu ka m ga-esi rịọ paspọtụ Naịjirịa ọhụrụ?",
+    "alt_questions": [
+      "Usoro ịrịọ paspọtụ",
+      "Paspọtụ mbụ",
+      "Otu esi enweta akwụkwọ ngafe",
+      "Kedu ka m ga-esi nweta paspọtụ?",
+      "Kedu ka e si enweta paspọtụ?"
+    ],
+    "answer_text": "1) Gaa na passport.immigration.gov.ng (pịnye ya n'onwe gị) dejupụta akwụkwọ arịrịọ n'ịntanetị. 2) Bulite akwụkwọ ọmụmụ NPC gị ma ọ bụ nkwupụta afọ site n'Ụlọikpe Kasị Elu, akwụkwọ ozi njirimara steeti ma ọ bụ ọchịchị ime obodo gị, ma kwụọ ụgwọ n'ịntanetị. 3) Họrọ ụbọchị nzukọ n'ụlọọrụ paspọtụ ị họọrọ. 4) Bịa n'onwe gị n'ụbọchị nzukọ jiri akwụkwọ ịkwụ ụgwọ, akwụkwọ nzukọ na akwụkwọ gị ndị bụ isi maka iwere mkpịsị aka, foto na mbinye aka. 5) Soro arịrịọ gị na weebụsaịtị ma nata paspọtụ gị mgbe ọ dị njikere. Ị chọrọ NIN dị irè."
+  },
+  {
+    "id": "dl-fees",
+    "document": "frsc-dl-fees-2024",
+    "section_title": "Ụgwọ ikike ịnya ụgbọala",
+    "question_text": "Ego ole ka ikike ịnya ụgbọala na-efu?",
+    "alt_questions": [
+      "Ọnụ ahịa laisensị ịnya ụgbọala",
+      "Ụgwọ ikike ịnya ụgbọala afọ 3 ma ọ bụ 5"
+    ],
+    "answer_text": "Ụgwọ Bọọdụ Ụtụ Isi Jikọtara Ọnụ kwadoro, nke malitere na 1 Nọvemba 2024: ụgbọala (klaasị B na ndị ọzọ) ₦15,000 maka afọ 3 na ₦21,000 maka afọ 5; ọgbatụmtụm na keke (klaasị A) ₦7,000 maka afọ 3 na ₦11,000 maka afọ 5. A na-akwụ ụgwọ klaasị ọ bụla iche. Kwụọ ụgwọ naanị na nigeriadriverslicence.frsc.gov.ng ma ọ bụ n'ụlọakụ a họpụtara."
+  },
+  {
+    "id": "dl-fresh-steps",
+    "document": "frsc-dl-faq",
+    "section_title": "Arịrịọ ọhụrụ",
+    "question_text": "Kedu ka m ga-esi nweta ikike ịnya ụgbọala ọhụrụ?",
+    "alt_questions": [
+      "Usoro ikike ịnya ụgbọala",
+      "Otu esi enweta laisensị ịnya ụgbọala na Naịjirịa"
+    ],
+    "answer_text": "1) Gụchaa ọzụzụ n'ụlọakwụkwọ ịnya ụgbọala FRSC kwadoro ma nata nọmba asambodo gị. 2) Gaa na nigeriadriverslicence.frsc.gov.ng, mepee 'DL Application' họrọ 'New Driver's Licence'. 3) Tinye nọmba asambodo gị, dejupụta nkọwa gị (ị chọrọ NIN), họrọ klaasị na oge (afọ 3 ma ọ bụ 5). 4) Kwụọ ụgwọ n'ịntanetị, n'ụlọakụ ma ọ bụ POS. 5) Gaa n'ụlọọrụ iwere mkpịsị aka n'onwe gị maka iwere mkpịsị aka na ule ịnya ụgbọala. 6) A ga-enye gị ikike nwa oge; soro kaadị bụ isi na weebụsaịtị. Ị ga-abụ afọ 18 ma ọ bụ karịa."
+  },
+  {
+    "id": "br-how-register",
+    "document": "npc-birth-selfservice",
+    "section_title": "Ndebanye aha ọmụmụ",
+    "question_text": "Kedu ka m ga-esi debanye aha ọmụmụ nwa m ma nweta akwụkwọ ọmụmụ?",
+    "alt_questions": [
+      "Akwụkwọ ọmụmụ NPC",
+      "Ebee ka a na-edebanye aha ọmụmụ?",
+      "Ndebanye aha ọmụmụ nwa ọhụrụ",
+      "Kedu ka e si enweta akwụkwọ ọmụmụ?",
+      "Kedu ka m ga-esi nweta akwụkwọ ọmụmụ nwa m?"
+    ],
+    "answer_text": "N'ụlọọrụ: kpọrọ nwa ahụ (ma ọ bụ akwụkwọ ọkwa ọmụmụ ụlọọgwụ) gaa n'ụlọọrụ ndebanye aha NPC kacha nso, nke na-adịkarị n'ụlọọrụ ọchịchị ime obodo, ụlọọgwụ mbụ ma ọ bụ ụlọọgwụ izugbe. N'ịntanetị: nne ma ọ bụ nna nwere NIN nwere ike imepe akaụntụ na birthreg-selfservice.nationalpopulation.gov.ng, mee nkwenye ihu, tinye nkọwa nwa na ndị mụrụ ya, zipu, soro ya, ma budata akwụkwọ ọmụmụ mgbe a kwadoro ya (a pụrụ ibudata ya naanị otu ugboro). Ndebanye aha ụmụaka na-erubeghị afọ ise bụ n'efu n'ụlọọrụ NPC. Iwu na-atụ anya ka e debanye aha ọmụmụ n'ime ụbọchị 60."
+  },
+  {
+    "id": "gen-what-can-you-do",
+    "document": "about-assistant",
+    "section_title": "Oke",
+    "question_text": "Gịnị ka ị nwere ike inyere m aka na ya?",
+    "alt_questions": [
+      "Ndewo",
+      "Kedu",
+      "Ụtụtụ ọma",
+      "Gịnị bụ Tambaya NG?",
+      "Enyemaka"
+    ],
+    "answer_text": "Tambaya NG na-aza ajụjụ gbasara ọrụ gọọmentị anọ na Naịjirịa site n'iji ozi e kwenyere site n'aka ụlọọrụ ndị metụtara: Nọmba Njirimara Mba (NIMC), paspọtụ (Ụlọọrụ Mbata na Ọpụpụ Naịjirịa), ikike ịnya ụgbọala (FRSC) na ndebanye aha ọmụmụ (Kọmishọn Ọnụọgụ Ndị Mmadụ Mba). Ị nwere ike ịjụ n'asụsụ Igbo, Bekee, Hausa, Yoruba ma ọ bụ Pidgin gbasara ihe a chọrọ, akwụkwọ, usoro, ụgwọ na ebe ị ga-aga; azịza ọ bụla na-egosi isi mmalite gọọmentị. Ana m enye ozi na nduzi naanị; enweghị m ike idebanye aha gị, inye akwụkwọ, ịnara ego ma ọ bụ ilele ndekọ gị."
+  },
+  {
+    "id": "nin-documents",
+    "document": "nimc-nin-overview",
+    "section_title": "Akwụkwọ achọrọ",
+    "question_text": "Akwụkwọ ole ka m chọrọ maka ndebanye aha NIN?",
+    "alt_questions": [
+      "Gịnị ka m ga-eweta maka ndebanye aha NIN?",
+      "Akwụkwọ ole ka m chọrọ maka NIN?",
+      "Achọrọ m akwụkwọ ọmụmụ maka NIN?",
+      "Ihe achọrọ maka NIN"
+    ],
+    "answer_text": "Ị chọrọ naanị OTU akwụkwọ a nabatara maka ndebanye aha NIN. Akwụkwọ a na-anabata gụnyere: akwụkwọ ọmụmụ ma ọ bụ nkwupụta afọ; kaadị ntuli aka (nwa oge ma ọ bụ nke na-adịgide); paspọtụ Naịjirịa; ikike ịnya ụgbọala; asambodo mmalite (certificate of origin); akwụkwọ ozi nkwenye site n'aka eze ọdịnala ma ọ bụ onye ndu okpukpe a maara; kaadị ọrụ gọọmentị ma ọ bụ ụlọọrụ e debanyere aha; kaadị ụlọakwụkwọ; asambodo ụtụ isi; kaadị NHIS; ma ọ bụ akwụkwọ mbata na ọpụpụ dị irè maka ndị mba ọzọ bi n'ụzọ iwu kwadoro. Weta akwụkwọ mbụ n'ụlọọrụ ndebanye aha."
+  },
+  {
+    "id": "nin-retrieve",
+    "document": "nimc-self-service",
+    "section_title": "Inwetaghachi NIN gị",
+    "question_text": "Kedu ka m ga-esi lelee ma ọ bụ nwetaghachi NIN m?",
+    "alt_questions": [
+      "Echefuru m NIN m",
+      "Kedu ka m ga-esi lelee NIN m na ekwentị?",
+      "Kedu koodu m ga-akpọ ịhụ NIN m?",
+      "Kedu ka m ga-esi chọta NIN m?"
+    ],
+    "answer_text": "Iji nwetaghachi NIN gị, kpọọ *346# site na nọmba ekwentị i ji debanye aha, họrọ 'NIN Retrieval' ma soro ntụziaka; a ga-egosi NIN gị na ihuenyo. Ụlọọrụ ekwentị na-ana obere ego kaadị (ihe dị ka ₦20) maka nke a. Ị nwekwara ike ịhụ NIN gị na ngwa NINAuth mgbe i kwenyesịrị onwe gị. Ọ bụrụ na nọmba ekwentị i debanyere aha furu efu, ị ga-ebu ụzọ gbanwee nọmba ekwentị gị site n'usoro mgbanwe onwe nke NIMC."
+  },
+  {
+    "id": "nin-modify-fees",
+    "document": "nimc-fee-schedule-2025",
+    "section_title": "Ụgwọ mgbanwe",
+    "question_text": "Ego ole ka ịgbanwe nkọwa NIN m na-efu?",
+    "alt_questions": [
+      "Ego ole ka mgbanwe NIN na-efu?",
+      "Ego ole ka ịgbanwe ụbọchị ọmụmụ na NIN?",
+      "Ego ole ka ịgbanwe aha na NIN bụ?",
+      "Ụgwọ mgbanwe nọmba ekwentị NIN"
+    ],
+    "answer_text": "Dị ka ndepụta ụgwọ NIMC e bipụtara na Mee 2025: mgbanwe ụbọchị ọmụmụ bụ ₦28,574; mgbanwe aha, adreesị, nọmba ekwentị ma ọ bụ data ọzọ bụ ₦2,000 kwa arịrịọ; ibipụtaghachi akwụkwọ NIN nkịtị bụ ₦600. Maka ndị Naịjirịa nọ na mba ọzọ, mgbanwe ụbọchị ọmụmụ bụ $55 (Afrịka) ma ọ bụ $60 (na mpụga Afrịka), mgbanwe ndị ọzọ bụ $10. A na-akwụ ụgwọ n'ịntanetị site na weebụsaịtị mgbanwe onwe naanị; ego e gosiri na weebụsaịtị gọọmentị n'oge ịkwụ ụgwọ bụ nke dị irè."
+  },
+  {
+    "id": "pp-minor",
+    "document": "nis-passports",
+    "section_title": "Paspọtụ maka ụmụaka",
+    "question_text": "Kedu ka m ga-esi nweta paspọtụ maka nwa m?",
+    "alt_questions": [
+      "Paspọtụ maka nwata",
+      "Akwụkwọ maka paspọtụ nwata",
+      "Nwa afọ 10 ọ nwere ike inweta paspọtụ?",
+      "Paspọtụ nwa ọhụrụ"
+    ],
+    "answer_text": "Maka nwata (na-erubeghị afọ 18): dejupụta arịrịọ n'ịntanetị; bulite akwụkwọ ọmụmụ NPC nke nwa ahụ; nye ihe akaebe na ndị mụrụ ya bụ ụmụ amaala Naịjirịa (dị ka peeji data paspọtụ nne ma ọ bụ nna); akwụkwọ ozi nkwenye site n'aka nne ma ọ bụ nna; otu foto nwa ahụ nke nne ma ọ bụ nna kwenyere bịanyere aka; na akwụkwọ nkwenye na ihe akaebe ịkwụ ụgwọ. Nwa ahụ ga-abịa n'ụlọọrụ paspọtụ ya na nne ma ọ bụ nna maka iwere mkpịsị aka na foto. Ụmụaka e kuchiri chọkwara iwu ụlọikpe na nkwado Ụlọọrụ Steeti maka Ihe gbasara Ụmụ Nwanyị."
+  },
+  {
+    "id": "pp-renewal",
+    "document": "nis-passports",
+    "section_title": "Mmegharị",
+    "question_text": "Kedu ka m ga-esi megharịa paspọtụ m?",
+    "alt_questions": [
+      "Paspọtụ m agwụla, gịnị ka m ga-eme?",
+      "Paspotu m agwula",
+      "Usoro mmegharị paspọtụ",
+      "Enwere m ike imegharị paspọtụ m n'ịntanetị?"
+    ],
+    "answer_text": "Mmegharị na-agbaso otu usoro ahụ dị ka arịrịọ ọhụrụ n'ịntanetị: 1) Rịọ na passport.immigration.gov.ng, họrọ mmegharị, ma bulite akwụkwọ ọmụmụ gị ma ọ bụ nkwupụta afọ, akwụkwọ ozi steeti na peeji data nke paspọtụ gị ugbu a. 2) Kwụọ ụgwọ n'ịntanetị ma họrọ ụbọchị nzukọ. 3) Weta akwụkwọ paspọtụ ochie n'ụlọọrụ paspọtụ n'ụbọchị nzukọ gị maka foto na iwere mkpịsị aka. Rịba ama: a na-ewere paspọtụ dị ka nke gwụrụ maka njem ma ọ bụrụ na ọ fọdụrụ ihe na-erughị ọnwa isii, ya mere megharịa ya n'oge. Ụgwọ bụ otu na nke akwụkwọ ọhụrụ."
+  },
+  {
+    "id": "dl-reissue",
+    "document": "frsc-dl-faq",
+    "section_title": "Ikike furu efu ma ọ bụ e zuru",
+    "question_text": "Gịnị ka m ga-eme ma ọ bụrụ na ikike ịnya ụgbọala m furu efu ma ọ bụ e zuru ya?",
+    "alt_questions": [
+      "Ikike ịnya ụgbọala m furu efu",
+      "E zuru laisensị m",
+      "Laisensị ịnya ụgbọala m furu",
+      "Ikike m mebiri emebi"
+    ],
+    "answer_text": "Ọ bụrụ na ikike ahụ ka dị irè, gaa na 'DL Application' > 'Re-Issue of Driver's Licence' na nigeriadriverslicence.frsc.gov.ng, tinye nọmba ikike gị, kwụọ ụgwọ ma gaa n'ụlọọrụ iwere mkpịsị aka. A na-atụ aro akụkọ ndị uwe ojii maka ikike e zuru. Ọ bụrụ na ikike furu efu agwụlarị, jiri nhọrọ Renewal kama. Nkwalite (ịgbakwunye ma ọ bụ iwepụ klaasị) ka a na-emekwa site n'usoro mmegharị ma ọ bụ nnyeghachi site na nọmba ikike gị; ịgbakwunye klaasị ka a na-akwụ ụgwọ iche."
+  },
+  {
+    "id": "dl-renewal",
+    "document": "frsc-dl-faq",
+    "section_title": "Mmegharị",
+    "question_text": "Kedu ka m ga-esi megharịa ikike ịnya ụgbọala m?",
+    "alt_questions": [
+      "Ikike ịnya ụgbọala m agwụla",
+      "Laisensị m agwụla",
+      "Mmegharị ikike ịnya ụgbọala",
+      "Kedu ka m ga-esi megharịa laisensị m?"
+    ],
+    "answer_text": "Gaa na nigeriadriverslicence.frsc.gov.ng, mepee 'DL Application' ma họrọ 'Renewal of Driver's Licence'. Tinye nọmba ikike gị ugbu a, kwenye nkọwa gị, họrọ afọ 3 ma ọ bụ 5 ma kwụọ ụgwọ n'ịntanetị. Mgbe ahụ gaa n'ụlọọrụ iwere mkpịsị aka maka iwere mkpịsị aka ọhụrụ (achọghị ọzụzụ ụlọakwụkwọ ịnya ụgbọala ọhụrụ). Ọ bụrụ na ikike gị agwụla ị ga-eji Renewal; ọ bụrụ na ọ ka dị irè mana furu efu ma ọ bụ mebie, jiri Re-Issue. Ikike e megharịrị na-adị irè ruo ụbọchị ngwụcha ọhụrụ ya."
+  },
+  {
+    "id": "br-death",
+    "document": "npc-civil-registration",
+    "section_title": "Ndebanye aha ọnwụ",
+    "question_text": "Kedu ka m ga-esi debanye aha ọnwụ ma nweta akwụkwọ ọnwụ?",
+    "alt_questions": [
+      "Ndebanye aha ọnwụ",
+      "Akwụkwọ ọnwụ na Naịjirịa",
+      "Ebee ka m ga-edebanye aha ọnwụ nna m?",
+      "Kedu ka e si enweta akwụkwọ ọnwụ?",
+      "Kedu ka m ga-esi nweta akwụkwọ ọnwụ?"
+    ],
+    "answer_text": "A na-edebanye aha ọnwụ na Kọmishọn Ọnụọgụ Ndị Mmadụ Mba (NPC). Were akwụkwọ ahụike nke ihe kpatara ọnwụ site n'ụlọọgwụ (ma ọ bụ nkwupụta onye akaebe maka ọnwụ n'ụlọ) na njirimara onye nwụrụ anwụ gaa n'ụlọọrụ ndebanye aha NPC kacha nso, ma ọ bụ jiri ọrụ ndebanye aha ọnwụ na weebụsaịtị NPC, ebe a na-enye akwụkwọ ahụ na dijitalụ ebe o kwesịrị. A chọrọ akwụkwọ ọnwụ maka ikike olili, ihe nketa, mkpuchi na ụgwọ ezumike nka."
+  },
+  {
+    "id": "gen-boundary",
+    "document": "about-assistant",
+    "section_title": "Oke",
+    "question_text": "Ị nwere ike ịrịọ paspọtụ ma ọ bụ NIN n'aha m?",
+    "alt_questions": [
+      "Ị nwere ike ilele ọnọdụ NIN m?",
+      "Ị nwere ike idebanye m aha?",
+      "Ị bụ weebụsaịtị gọọmentị?",
+      "Ị na-ahazi arịrịọ?"
+    ],
+    "answer_text": "Mba. Tambaya NG bụ onye enyemaka ozi na nduzi, ọ bụghị weebụsaịtị gọọmentị. Ọ naghị eme azụmahịa, ọ naghị abanye na nchekwa data gọọmentị ọ bụla, ọ naghị ekwenye njirimara, ọ naghị akwụ ụgwọ ma ọ bụ kwado arịrịọ, ọ dịghịkwa mgbe ọ na-arịọ NIN gị, nọmba paspọtụ ma ọ bụ njirimara onwe ọzọ. Maka arịrịọ ma ọ bụ azụmahịa ọ bụla n'ezie, jiri ụzọ gọọmentị: nimc.gov.ng na *346# maka NIN, passport.immigration.gov.ng maka paspọtụ, nigeriadriverslicence.frsc.gov.ng maka ikike ịnya ụgbọala, na ụlọọrụ ndebanye aha NPC ma ọ bụ weebụsaịtị eCRVS maka ndebanye aha ọmụmụ."
+  },
+  {
+    "id": "br-cost",
+    "document": "npc-vitalreg-2026",
+    "section_title": "Ọnụ ahịa",
+    "question_text": "Ego ole ka ndebanye aha ọmụmụ na-efu?",
+    "alt_questions": [
+      "Ego ole ka akwụkwọ ọmụmụ na-efu?",
+      "Ndebanye aha ọmụmụ ọ bụ n'efu?",
+      "Ego ole ka ndebanye aha ọmụmụ bụ?",
+      "M ga-akwụ ụgwọ idebanye aha ọmụmụ nwa m?"
+    ],
+    "answer_text": "Ndebanye aha ọmụmụ maka ụmụaka na-erubeghị afọ ise bụ n'efu n'ụlọọrụ ndebanye aha NPC. Ụfọdụ nhọrọ n'ịntanetị, ndebanye aha e mere n'oge gara aga na ọrụ nkwenye ọmụmụ nwere ụgwọ gọọmentị, nke a na-egosi na weebụsaịtị NPC tupu ị kwụọ ụgwọ; kwụọ ụgwọ naanị site n'ụzọ ịkwụ ụgwọ gọọmentị nke weebụsaịtị. Ọ bụrụ na onye ọ bụla n'ụlọọrụ rịọ ego maka idebanye aha nwa na-erubeghị afọ ise, rịọ akwụkwọ nnata gọọmentị ma ọ bụ kọọrọ NPC."
+  },
+  {
+    "id": "pp-lost",
+    "document": "nis-passports",
+    "section_title": "Paspọtụ furu efu",
+    "question_text": "Gịnị ka m ga-eme ma paspọtụ m furu efu ma ọ bụ e zuru ya?",
+    "alt_questions": [
+      "Paspọtụ m furu efu",
+      "E zuru paspọtụ m",
+      "Passport m furu efu",
+      "Kedu ka m ga-esi dochie paspọtụ furu efu?"
+    ],
+    "answer_text": "Ọ bụrụ na paspọtụ Naịjirịa gị furu efu ma ọ bụ e zuru ya: 1) Kọọrọ ndị uwe ojii ngwa ngwa ma nata akwụkwọ akụkọ ndị uwe ojii nke nwere nọmba paspọtụ gị. 2) Chọta mbipụta peeji data paspọtụ, ma ọ bụ opekata mpe nọmba paspọtụ na ụbọchị e nyere ya. 3) Dee akwụkwọ arịrịọ nye Comptroller General of Immigration (ma ọ bụ rịọ n'ịntanetị na passport.immigration.gov.ng), tinye akwụkwọ ndị uwe ojii, mbipụta peeji data na foto paspọtụ abụọ, ma kwụọ ụgwọ gọọmentị na portal. 4) Isi ụlọọrụ NIS dị na Abuja ga-enyocha ma kwado ya tupu e nye akwụkwọ ọhụrụ, mgbe ahụ a ga-akpọ gị ka ị bịa n'onwe gị maka biometric capture. Ọ bụrụ na ị nọ ná mba ọzọ ma ịchọrọ ịlaghachi Naịjirịa ngwa ngwa, ụlọ ọrụ nnọchiteanya Naịjirịa nwere ike inye gị Emergency Travel Certificate. Debe akwụkwọ ndị uwe ojii ahụ, n'ihi na a kara nọmba paspọtụ ochie akara."
+  },
+  {
+    "id": "gen-misuse",
+    "document": "about-assistant",
+    "section_title": "Ihe m na-agaghị enyere aka",
+    "question_text": "Ị nwere ike inyere m aka inweta NIN, paspọtụ ma ọ bụ ikike adịgboroja?",
+    "alt_questions": [
+      "Kedu ka m ga-esi nweta ikike ịnya ụgbọala na-enweghị ule?",
+      "Nyere m aka mee akwụkwọ ọmụmụ adịgboroja",
+      "Enwere m ike iji NIN onye ọzọ?"
+    ],
+    "answer_text": "Enweghị m ike inye aka na nke ahụ. Ime ma ọ bụ ịzụta akwụkwọ adịgboroja, inweta paspọtụ ma ọ bụ ikike na-enweghị biometric capture ma ọ bụ ule, iji NIN onye ọzọ, ma ọ bụ ịgbanwe ndekọ site n'ụgha bụ mpụ na Naịjirịa, ọ nwekwara ike iduga n'ikpe. Ụzọ kwesịrị ekwesị bụ: ndebanye NIN bụ n'efu na ebe NIMC (nimc.gov.ng); paspọtụ na-esite na passport.immigration.gov.ng na biometric capture n'onwe gị; ikike ịnya ụgbọala chọrọ ụlọ akwụkwọ ịnya ụgbọala na ule site na nigeriadriverslicence.frsc.gov.ng; ndekọ ọmụmụ na-esite na NPC. Ọ bụrụ na ezigbo njehie dị na ndekọ gị, jiri usoro mgbanwe gọọmentị. Jụọ m gbasara usoro ọ bụla, m ga-akọwa ya."
+  }
+]

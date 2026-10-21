@@ -1,0 +1,45 @@
+.admin-tag { color: var(--muted); font-size: var(--fs-small); padding-left: 14px; border-left: 1px solid var(--border); }
+.token-field input, .filters input, .filters select, .inline-form input, .inline-form select, .editor input, .editor select, .editor textarea {
+  min-height: 42px; padding: 8px 12px; border-radius: var(--r-sm); border: 1px solid var(--border-strong); background: var(--surface); color: var(--text); font: inherit; }
+.editor textarea { resize: vertical; line-height: 1.5; }
+.admin { max-width: 1240px; margin: 0 auto; padding: 28px var(--gutter) 80px; display: flex; flex-direction: column; gap: 24px; }
+.stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 12px; }
+.stats:empty::before { content: "Enter the admin token to load the knowledge base."; color: var(--muted); grid-column: 1 / -1; }
+.stat { padding: 16px 18px; border-radius: var(--r-md); border: 1px solid var(--border); background: var(--surface); }
+.stat b { display: block; font-family: var(--font-display); font-size: 1.7rem; font-weight: 500; }
+.stat span { color: var(--muted); font-size: var(--fs-xs); }
+.stat .langs { display: grid; grid-template-columns: 1fr 1fr; gap: 2px 12px; font-family: var(--font-sans); font-size: var(--fs-small); }
+.stat .langs span { color: var(--text-2); display: flex; justify-content: space-between; }
+.stat .langs em { font-style: normal; font-weight: 600; color: var(--text); }
+.panel { border: 1px solid var(--border); border-radius: var(--r-lg); background: var(--surface); padding: 22px; }
+.panel-head { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 12px; align-items: flex-start; margin-bottom: 16px; }
+.panel-head h2 { font-size: var(--fs-h2); }
+.panel-head p { color: var(--text-2); font-size: var(--fs-small); max-width: 70ch; flex-basis: 100%; }
+.filters { display: flex; flex-wrap: wrap; gap: 8px; }
+.filters input { min-width: 240px; }
+.table-wrap { overflow-x: auto; }
+table { width: 100%; border-collapse: collapse; font-size: var(--fs-small); }
+th { text-align: left; color: var(--muted); font-weight: 500; padding: 8px 10px; border-bottom: 1px solid var(--border-strong); white-space: nowrap; }
+td { padding: 10px; border-bottom: 1px solid var(--border); vertical-align: top; }
+td.key { font-family: var(--font-mono); font-size: var(--fs-xs); white-space: nowrap; }
+td.q { max-width: 420px; }
+.status { display: inline-block; padding: 2px 8px; border-radius: var(--r-pill); font-size: var(--fs-xs); border: 1px solid var(--border); }
+.status.approved { color: var(--green-300); border-color: color-mix(in srgb, var(--green-500) 40%, transparent); }
+.status.pending { color: var(--accent); border-color: color-mix(in srgb, var(--accent) 45%, transparent); }
+.status.rejected { color: var(--muted); }
+:root[data-theme="light"] .status.approved { color: var(--green-700); }
+.row-actions { display: flex; gap: 6px; white-space: nowrap; }
+.row-actions button { min-height: 34px; padding: 0 10px; font-size: var(--fs-xs); }
+.empty, .result { color: var(--muted); font-size: var(--fs-small); margin-top: 12px; }
+.result.err { color: var(--danger); }
+.inline-form { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.inline-form input { flex: 1; min-width: 220px; }
+dialog { border: 1px solid var(--border-strong); border-radius: var(--r-lg); background: var(--surface); color: var(--text); padding: 0; width: min(760px, calc(100vw - 32px)); box-shadow: var(--shadow-2); }
+dialog::backdrop { background: var(--scrim); backdrop-filter: blur(4px); }
+.editor { padding: 24px; display: flex; flex-direction: column; gap: 14px; }
+.editor h2 { font-size: var(--fs-h2); }
+.editor label { display: flex; flex-direction: column; gap: 6px; font-size: var(--fs-small); color: var(--text-2); }
+.editor label.check { flex-direction: row; align-items: center; gap: 10px; color: var(--text); }
+.grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+.editor-actions { display: flex; justify-content: flex-end; gap: 8px; }
+@media (max-width: 640px) { .grid2 { grid-template-columns: 1fr; } .admin-tag { display: none; } }

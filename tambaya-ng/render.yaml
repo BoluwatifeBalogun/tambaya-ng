@@ -1,0 +1,29 @@
+# Render Blueprint: deploys the API + front end. It does NOT create a database (Render allows one free
+# Postgres per account). Provide DATABASE_URL yourself when Render asks: Neon free tier (recommended,
+# supports pgvector, pg_trgm and unaccent), or an existing Render Postgres. See README "Deploy".
+# Render > New > Blueprint > pick this repo, then fill DATABASE_URL and (optional) GROQ_API_KEY.
+services:
+  - type: web
+    name: tambaya-ng
+    runtime: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    # Explicit, quote-free start command. A blueprint sync writes this into the service settings, replacing any
+    # older value (Render keeps the previously synced command even if the key is removed).
+    dockerCommand: sh /app/start.sh
+    healthCheckPath: /api/health
+    envVars:
+      - key: DATABASE_URL
+        sync: false
+      - key: ADMIN_TOKEN
+        generateValue: true
+      - key: GROQ_API_KEY
+        sync: false
+      - key: GROQ_MODEL
+        value: openai/gpt-oss-120b
+      - key: GROQ_FALLBACK_MODEL
+        value: openai/gpt-oss-20b
+      - key: CORS_ORIGINS
+        value: https://tambaya-ng.onrender.com
+      - key: PYTHONUNBUFFERED
+        value: "1"
